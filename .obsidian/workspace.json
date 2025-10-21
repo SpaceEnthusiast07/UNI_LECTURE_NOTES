@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6de3efcd94177cf4",
+        "id": "7fadec95049e33d0",
         "type": "tabs",
         "children": [
           {
-            "id": "4c9eb473181a3856",
+            "id": "dfa7f1051579049b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 5/20.10.25 - Lecture 9 - Bayes Theorem.md",
+                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Control Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20.10.25 - Lecture 9 - Bayes Theorem"
+              "title": "21.10.25 - Lecture 10 - Control Flow"
             }
           },
           {
-            "id": "cde94f976bf812d7",
+            "id": "2a92df435b6fff1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/20.10.25 - Lecture 9.md",
+                "file": "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5/21.10.25 - Lecture 9 - Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20.10.25 - Lecture 9"
+              "title": "21.10.25 - Lecture 9 - Functions"
             }
           }
         ]
@@ -87,12 +87,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "52d7940d23b5f0a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 342.5
   },
   "right": {
     "id": "8e34f83526af6615",
@@ -103,22 +114,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52d7940d23b5f0a2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "1994fa05b33cb2d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 5/20.10.25 - Lecture 9 - Bayes Theorem.md",
+                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Control Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20.10.25 - Lecture 9 - Bayes Theorem"
+              "title": "Backlinks for 21.10.25 - Lecture 10 - Control Flow"
             }
           },
           {
@@ -166,20 +167,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 5/20.10.25 - Lecture 9 - Bayes Theorem.md",
+                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Control Flow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20.10.25 - Lecture 9 - Bayes Theorem"
+              "title": "Outline of 21.10.25 - Lecture 10 - Control Flow"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +195,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "272dde93e1d5abb5",
+  "active": "dfa7f1051579049b",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5/21.10.25 - Lecture 9 - Functions.md",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Control Flow.md",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 4/14.10.25 - Lecture 7 - Set Theory.md",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 4/17.10.25 - Lecture 8 - Set Theory.md",
+    "Attachments/Pasted image 20251020205645.png",
+    "Attachments/Pasted image 20251020205641.png",
+    "Attachments/Pasted image 20251020205330.png",
+    "Attachments/Pasted image 20251020205035.png",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/20.10.25 - Lecture 9 - Tuples, Dictionaries and Error Handling.md",
+    "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Python Pandas.md",
+    "Untitled.md",
+    "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 5/20.10.25 - Workshop 5.md",
+    "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 5/20.10.25 - Lecture 9 - Bayes Theorem.md",
     "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Coursework/CW2/UNI_ECM1400_Coursework2.pdf",
     "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Coursework/CW1/UNI_ECM1400_Coursework1.pdf",
     "BSc Comp Sci - Copy/Year 1/ECM1407 - Issues of the Information Age/Week 4/16.10.25 - Workshop 3.md",
@@ -214,14 +230,6 @@
     "BSc Comp Sci - Copy/Year 1/ECM1415 - Discrete Mathematics/Week 2/07.10.25 - Quiz 2 - Predicate Logic.md",
     "BSc Comp Sci - Copy/Year 1/ECM1415 - Discrete Mathematics/Week 2/03.10.25 - Lecture 4.md",
     "BSc Comp Sci - Copy/Year 1/ECM1415 - Discrete Mathematics/Week 1/26.09.25 - Lecture 2 - Propositions.md",
-    "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Week 4/14.10.25 - Lecture 8 - Lists.md",
-    "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Week 4/13.10.25 - Lecture 7 - Functions.md",
-    "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Week 5/20.10.25 - Lecture 9.md",
-    "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Week 3/07.10.25 - Lecture 6 - Functions.md",
-    "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Week 3/06.10.25 - Lecture 5 - Loops and Functions.md",
-    "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Week 2/30.09.25 - Workshop 1.md",
-    "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Week 2/30.09.25 - Lecture 4.md",
-    "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Week 2/29.09.25 - Lecture 3.md",
     "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Coursework/CW2",
     "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Coursework/CW1",
     "BSc Comp Sci - Copy/Year 1/COM1011 - Fund. of Machine Learning/Week 3/P2_Linear_regression.ipynb",
@@ -229,18 +237,12 @@
     "BSc Comp Sci - Copy/Year 1/ECM1407 - Issues of the Information Age/Week 3",
     "BSc Comp Sci - Copy/Year 1/ECM1407 - Issues of the Information Age/Week 2",
     "BSc Comp Sci - Copy/Year 1/ECM1407 - Issues of the Information Age/Week 1",
-    "BSc Comp Sci - Copy/Year 1/ECM1407 - Issues of the Information Age/Coursework",
-    "BSc Comp Sci - Copy/Year 1/ECM1415 - Discrete Mathematics/Week 4",
     "Attachments/Pasted image 20251020132854.png",
     "Attachments/Pasted image 20251020131751.png",
     "Attachments/Pasted image 20251019163152.png",
     "Attachments/Pasted image 20251019162345.png",
     "Attachments/Pasted image 20251019162010.png",
     "Attachments/Pasted image 20251019161414.png",
-    "Attachments/Pasted image 20251019161150.png",
-    "Attachments/Pasted image 20251019160533.png",
-    "Attachments/Pasted image 20251019151744.png",
-    "Attachments/Pasted image 20251019151728.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
