@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "21.10.25 - CW Work"
             }
-          },
-          {
-            "id": "2e2a7d2135406046",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,9 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e2a7d2135406046",
+  "active": "b7bfa8f7a342fa1a",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1407 - Issues of the Information Age/Week 5/23.10.25 - Lecture 5 - Computer Misuse.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/21.10.25 - CW Work.md",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 4/14.10.25 - Lecture 7 - Set Theory.md",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5/Workshop 4 - Set Theory.md",
+    "BSc Comp Sci/Year 1/ECM1407 - Issues of the Information Age/Week 5",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 4/17.10.25 - Lecture 8 - Set Theory.md",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 4/16.10.25 - Workshop 3 - Proofs.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v2.drawio",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v2.drawio.html",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1.drawio.html",
@@ -217,14 +212,11 @@
     "Attachments/Pasted image 20251021135727.png",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Flask & Control Flow.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 4/14.10.25 - Lecture 7 - Set Theory.md",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 4/17.10.25 - Lecture 8 - Set Theory.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/20.10.25 - Lecture 9 - Tuples, Dictionaries and Error Handling.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Python Pandas.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 5/20.10.25 - Workshop 5.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 5/20.10.25 - Lecture 9 - Bayes Theorem.md",
     "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Coursework/CW2/UNI_ECM1400_Coursework2.pdf",
-    "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Coursework/CW1/UNI_ECM1400_Coursework1.pdf",
     "BSc Comp Sci - Copy/Year 1/ECM1407 - Issues of the Information Age/Week 4/16.10.25 - Workshop 3.md",
     "BSc Comp Sci - Copy/Year 1/ECM1407 - Issues of the Information Age/Week 4/16.10.25 - Lecture 4 - Intellectual Property.md",
     "BSc Comp Sci - Copy/Year 1/ECM1407 - Issues of the Information Age/Week 3/9.10.25 - Lecture 3 - Security & Cryptography.md",
@@ -237,8 +229,6 @@
     "BSc Comp Sci - Copy/Year 1/ECM1415 - Discrete Mathematics/Week 4/14.10.25 - Lecture 7 - Set Theory.md",
     "BSc Comp Sci - Copy/Year 1/ECM1415 - Discrete Mathematics/Week 3/10.10.25 - Lecture 6 - Proofs.md",
     "BSc Comp Sci - Copy/Year 1/ECM1415 - Discrete Mathematics/Week 3/09.10.25 - Workshop 2.md",
-    "BSc Comp Sci - Copy/Year 1/ECM1415 - Discrete Mathematics/Week 3/07.10.25 - lecture 5 - Rules of Inference.md",
-    "BSc Comp Sci - Copy/Year 1/ECM1415 - Discrete Mathematics/Week 2/30.09.25 - Lecture 3 - Predicate Logic.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
