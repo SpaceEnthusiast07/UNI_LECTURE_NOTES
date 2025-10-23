@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "21.10.25 - CW Work"
             }
+          },
+          {
+            "id": "2e2a7d2135406046",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,15 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7bfa8f7a342fa1a",
+  "active": "2e2a7d2135406046",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/21.10.25 - CW Work.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v2.drawio",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v2.drawio.html",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1.drawio.html",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1 1.drawio",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1.drawio",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400 Coursework 1.pdf",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/21.10.25 - CW Work.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/UNI_ECM1400_Coursework1.pdf",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5/21.10.25 - Lecture 9 - Functions.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Workshop 4.md",
@@ -228,7 +239,6 @@
     "BSc Comp Sci - Copy/Year 1/ECM1415 - Discrete Mathematics/Week 3/09.10.25 - Workshop 2.md",
     "BSc Comp Sci - Copy/Year 1/ECM1415 - Discrete Mathematics/Week 3/07.10.25 - lecture 5 - Rules of Inference.md",
     "BSc Comp Sci - Copy/Year 1/ECM1415 - Discrete Mathematics/Week 2/30.09.25 - Lecture 3 - Predicate Logic.md",
-    "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Coursework/CW2",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
