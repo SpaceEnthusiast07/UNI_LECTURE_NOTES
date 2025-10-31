@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3ee55aac68f07396",
+        "id": "8a2f76f38ed16a43",
         "type": "tabs",
         "children": [
           {
-            "id": "5890512ae36ad3f1",
+            "id": "0944082c288b7e9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/21.10.25 - CW Work.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "21.10.25 - CW Work"
             }
           }
         ]
@@ -177,8 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5890512ae36ad3f1",
+  "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v2.drawio.svg",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/21.10.25 - CW Work.md",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v2.drawio.html",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400 Coursework 1.pdf",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v2.drawio (1).svg",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Coursework/CW 1/23.10.25 - CW Work.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5/21.10.25 - Lecture 9 - Functions.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5/24.10.25 - Lecture 10 - Functions.md",
@@ -191,8 +200,6 @@
     "Attachments/Pasted image 20251024101108.png",
     "Attachments/Pasted image 20251024100903.png",
     "Attachments/Pasted image 20251024100347.png",
-    "Attachments/Pasted image 20251024100127.png",
-    "Attachments/Pasted image 20251024094527.png",
     "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Week 3/07.10.25 - Lecture 6 - Functions.md",
     "Obsidian Callouts.md",
     "BSc Comp Sci/Year 1/ECM1407 - Issues of the Information Age/Week 5/23.10.25 - Workshop 4.md",
@@ -200,7 +207,6 @@
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Python Pandas.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5/23.10.25 - Workshop 4 - Set Theory.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Coursework/CW 1/coursework1_specification.pdf",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/21.10.25 - CW Work.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Coursework/CW 2",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Coursework/CW 1",
     "().md",
@@ -211,11 +217,9 @@
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 4/17.10.25 - Lecture 8 - Set Theory.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 4/16.10.25 - Workshop 3 - Proofs.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v2.drawio",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v2.drawio.html",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1.drawio.html",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1 1.drawio",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1.drawio",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400 Coursework 1.pdf",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Workshop 4.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Flask & Control Flow.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/20.10.25 - Lecture 9 - Tuples, Dictionaries and Error Handling.md",
