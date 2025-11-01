@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "60cd43dfe42a0700",
+        "id": "b83c1e4f9afdfe27",
         "type": "tabs",
         "children": [
           {
-            "id": "9cbc7c3dedd43367",
+            "id": "d51990c910dc1341",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,6 +179,8 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v2.drawio.svg",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/21.10.25 - CW Work.md",
     "Attachments/Pasted image 20251024105148.png",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5/21.10.25 - Lecture 9 - Functions.md",
@@ -192,7 +194,6 @@
     "Attachments/Pasted image 20251024100903.png",
     "Attachments/Pasted image 20251024100347.png",
     "Attachments/Pasted image 20251024100127.png",
-    "Attachments/Pasted image 20251024094527.png",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Coursework/CW 1/23.10.25 - CW Work.md",
     "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Week 3/07.10.25 - Lecture 6 - Functions.md",
     "Obsidian Callouts.md",
