@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b83c1e4f9afdfe27",
+        "id": "33efb09f37911769",
         "type": "tabs",
         "children": [
           {
-            "id": "d51990c910dc1341",
+            "id": "0381189997ec46d4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,9 +179,10 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/21.10.25 - CW Work.md",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400 Coursework 1.pdf",
     "conflict-files-obsidian-git.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v2.drawio.svg",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/21.10.25 - CW Work.md",
     "Attachments/Pasted image 20251024105148.png",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5/21.10.25 - Lecture 9 - Functions.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5/24.10.25 - Lecture 10 - Functions.md",
@@ -216,7 +217,6 @@
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1.drawio.html",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1 1.drawio",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1.drawio",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400 Coursework 1.pdf",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Workshop 4.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Flask & Control Flow.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/20.10.25 - Lecture 9 - Tuples, Dictionaries and Error Handling.md",
@@ -224,7 +224,6 @@
     "BSc Comp Sci - Copy/Year 1/ECM1407 - Issues of the Information Age/Week 4/16.10.25 - Workshop 3.md",
     "BSc Comp Sci - Copy/Year 1/ECM1407 - Issues of the Information Age/Week 4/16.10.25 - Lecture 4 - Intellectual Property.md",
     "BSc Comp Sci - Copy/Year 1/ECM1407 - Issues of the Information Age/Week 3/9.10.25 - Lecture 3 - Security & Cryptography.md",
-    "BSc Comp Sci - Copy/Year 1/ECM1407 - Issues of the Information Age/Week 3/09.10.25 - Workshop 2.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
