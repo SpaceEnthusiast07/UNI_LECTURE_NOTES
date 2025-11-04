@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f7b05fdb8fb153a8",
+        "id": "2adb91215b066eec",
         "type": "tabs",
         "children": [
           {
-            "id": "ee18cb1886182e58",
+            "id": "507b7c706a81240f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 7/04.11.25 - Extra - APIs in Depth.md",
+                "file": "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 7/04.11.25 - Relations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.11.25 - Extra - APIs in Depth"
+              "title": "04.11.25 - Relations"
             }
           },
           {
-            "id": "68f9e21f91c1076d",
+            "id": "00193fa89a1b327a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 7/04.11.25 - Exception Handling and Testing.md",
+                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/21.10.25 - CW Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.11.25 - Exception Handling and Testing"
+              "title": "21.10.25 - CW Work"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 7/04.11.25 - Extra - APIs in Depth.md",
+                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/21.10.25 - CW Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04.11.25 - Extra - APIs in Depth"
+              "title": "Backlinks for 21.10.25 - CW Work"
             }
           },
           {
@@ -209,33 +210,37 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 7/03.11.25 - APIs.md",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 7/04.11.25 - Extra - APIs in Depth.md",
-    "Attachments/Pasted image 20251104112204.png",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 7/04.11.25 - Exception Handling and Testing.md",
-    "Obsidian Callouts.md",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-2_v2.drawio.svg",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-2_v3.drawio.svg",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/21.10.25 - CW Work.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v5.drawio.svg",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-2_v2.drawio.svg",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-2.drawio.svg",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v4.drawio.svg",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v6.drawio.svg",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 7/04.11.25 - Relations.md",
+    "Attachments/Pasted image 20251104142500.png",
+    "Attachments/Pasted image 20251104142448.png",
+    "Attachments/Pasted image 20251104142227.png",
+    "Attachments/Pasted image 20251104141929.png",
+    "Attachments/Pasted image 20251104140258.png",
+    "Attachments/Pasted image 20251104140027.png",
+    "Attachments/Pasted image 20251104135001.png",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 7/04.11.25 - Extra - APIs in Depth.md",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 7",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 6 - Reading Week",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 7/03.11.25 - APIs.md",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 7/04.11.25 - Exception Handling and Testing.md",
+    "Obsidian Callouts.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 7/03.11.25 - Workshop 7.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 7/03.11.25 - Probabilities.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 7",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 6 - Reading Week",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v3.drawio.svg",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 6 - Reading Week",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 7",
     "Untitled 1",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400_CW1_Q1-1_v2.drawio.svg",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/ECM1400 Coursework 1.pdf",
     "conflict-files-obsidian-git.md",
-    "Attachments/Pasted image 20251024105148.png",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5/21.10.25 - Lecture 9 - Functions.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5/24.10.25 - Lecture 10 - Functions.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 5/24.10.25 - Lecture 10 -.md",
-    "Attachments/Pasted image 20251024103022.png",
-    "Attachments/Pasted image 20251024102732.png",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Coursework/CW 1/23.10.25 - CW Work.md",
     "BSc Comp Sci - Copy/Year 1/ECM1400 - Programming/Week 3/07.10.25 - Lecture 6 - Functions.md",
     "BSc Comp Sci/Year 1/ECM1407 - Issues of the Information Age/Week 5/23.10.25 - Workshop 4.md",
@@ -244,17 +249,13 @@
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5/23.10.25 - Workshop 4 - Set Theory.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Coursework/CW 1/coursework1_specification.pdf",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Coursework/CW 2",
-    "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Coursework/CW 1",
     "().md",
     "BSc Comp Sci/Year 1/ECM1407 - Issues of the Information Age/Week 4/16.10.25 - Workshop 3.md",
     "BSc Comp Sci/Year 1/ECM1407 - Issues of the Information Age/Week 5/23.10.25 - Lecture 5 - Computer Misuse.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 4/14.10.25 - Lecture 7 - Set Theory.md",
-    "BSc Comp Sci/Year 1/ECM1407 - Issues of the Information Age/Week 5",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 4/17.10.25 - Lecture 8 - Set Theory.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 4/16.10.25 - Workshop 3 - Proofs.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Workshop 4.md",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Flask & Control Flow.md",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/20.10.25 - Lecture 9 - Tuples, Dictionaries and Error Handling.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
