@@ -1,0 +1,84 @@
+# Function to choose a premium seat on the plane
+# Pass in the reference to plane so i can modify the original plane
+function premium_seat(reference plane):
+	# Output a representation of the plane to the console
+	print_plane(plane)
+	
+	# Initialise a list of capitalised characters
+	letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q','R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+	
+	# List of valid nums for a seat
+	nums = [1, 2, 3, 4, 5, 6]
+	
+	# Ask how many passengers would like a premium seat
+	numOfPassengers = INTEGER(INPUT("How many passengers for a premium seat?"))
+	
+	# Set up array to hold all the chosen seats
+	chosenPremiumSeats = []
+	
+	# Allow the user to book a premium seat for multiple passengers
+	for (i=0; i<numOfPassengers; i++):
+		# Set validSeat to false
+		validSeat = false
+		
+		# Allow the user to enter a valid seat code and/or choose a non empty one
+		while (NOT validSeat):
+			# Ask the user which seat they want
+			chosenSeat = INPUT("Which seat would you like?")
+			
+			# Check if the seat code is in the correct format
+			if (NOT (chosenSeat[0] is in letters AND chosenSeat[1] is in nums)):
+				# Inform the user of the correct format
+				OUTPUT("Incorrect seat format")
+				OUTPUT("Correct format example 'B3'")
+				# Continue to next inner loop iteration
+				continue
+			
+			# Calculate which row this seat it on
+			row = letters.indexOf(chosenSeat[0])
+			
+			# Check if the seat is already booked
+			if (plane[row, chosenSeat[1]].isBooked == True):
+				# Inform the user that the seat is already booked
+				OUTPUT("Seat is already booked")
+				OUTPUT("Please choose another seat")
+				# Continue to the next inner loop iteration
+				continue
+			
+			# Change the chosen seat to booked
+			plane[row, chosenSeat[1]].isBooked = True
+			
+			# Initialise validDrink to false
+			validDrink = false
+			
+			# Allow the user to input their drink option
+			while (NOT validDrink):
+				# Ask the user which inflight drink they would like
+				inFlightDrink = INPUT("Which inflight drink would you like; tea, coffee, fruit juice or champagne?")
+				
+				# Check the user is over 18 if they have chosen champagne
+				if (inFlightDrink == "champagne"):
+					# Ask for the user's age
+					userAge = INPUT("Are you over 18?")
+					
+					# Check they answered no
+					if (userAge == "no"):
+						OUTPUT("You must be over 18 to have champagne")
+						OUTPUT("Please choose another drink")
+						# Continue to the next inner-inner loop iteration
+						continue
+			
+			# Set validSeat to true
+			validSeat = true
+		
+		# Set the inFlightDrink option of the chosen seat to their choice
+		plane[row, chosenSeat[1]].inFlightDrink = inFlightDrink
+		
+		# Set isPremium option of chosen seat to true
+		plane[row, chosenSeat[1]].isPremium = True
+		
+		# Add chosen seat to array of chosen premium seats
+		chosenPremiumSeats.append(chosenSeat)
+	
+	# Return the updated plane
+	return chosenPremiumSeats

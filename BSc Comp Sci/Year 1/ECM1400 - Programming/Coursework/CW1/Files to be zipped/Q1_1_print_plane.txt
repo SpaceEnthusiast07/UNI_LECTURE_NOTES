@@ -1,0 +1,133 @@
+########################################################
+## Print a representation of the plane to the console ##
+########################################################
+
+# Function that displays the nose of the plane
+function print_nose():
+	OUTPUT(" "*9 + "/\\" + " "*7)
+	OUTPUT(" "*8 + "/  \\" + " "*6)
+	OUTPUT(" "*7 + "/    \\" + " "*5)
+	OUTPUT(" "*6 + "/      \\" + " "*4)
+	OUTPUT(" "*5 + "/        \\" + " "*3)
+	OUTPUT(" "*4 + "/          \\" + " "*2)
+	OUTPUT(" "*3 + "/            \\" + " "*1)
+	OUTPUT("  /              \\")
+
+
+# Function to output the tail of the plane
+function print_tail():
+	OUTPUT("  \\              /")
+	OUTPUT(" "*3 + "\\            /" + " "*1)
+	OUTPUT("    \\          /" + " "*2)
+	OUTPUT("   / \\        / \\" + " "*3)
+	OUTPUT("  /   \\      /   \\" + " "*4)
+	OUTPUT("  -----\\    /-----" + " "*5)
+	OUTPUT(" "*8 + "\\  /" + " "*6)
+	OUTPUT(" "*9 + "\\/" + " "*7)
+
+
+# Function that displays the plane's layout
+function print_plane(plane):
+	# Display key
+	OUTPUT("Key:")
+	OUTPUT("  U = Empty Seat")
+	OUTPUT("  # = Booked Seat")
+	OUTPUT("")
+	
+	# Display the plane's nose
+	print_nose()
+	
+	# Print the column numbers
+	OUTPUT("    1 2 3   4 5 6")
+	
+	# Initialise a list of capitalised characters
+	letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q','R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+	
+	# Initialise the row string
+	rowString = "| "
+	
+	# Loop through each row of the plane
+	for (i=0; i<plane.length; i++):
+		# If on row 11 (index 10), display exit row
+		if i == 10:
+			OUTPUT("  ¦" + " "*(rowString.length - 2) + "¦")
+		
+		# Reset row string
+		rowString = letters[i] + "| "
+		
+		# Loop through each seat in the current row
+		for (j=0; j<plane[i].length; j++):
+			# If on seat 4 (index 3), add "  " to rowString for isle
+			if j == 3:
+				rowString += "  "
+			
+			# If current seat is empty, add "U " to rowString
+			if plane[i][j].isBooked == False:
+				rowString += "U "
+			# If current seat is booked, add "# " to rowString
+			else if plane[i][j].isBooked == True:
+				# If seat is premium, add "P " to rowString instead
+				if (plane[i][j].isPremium == True):
+					rowString += "P "
+				else:
+					rowString += "# "
+		
+		# Add right wall to rowString
+		rowString += "|"
+		
+		# Output the current row
+		OUTPUT(rowString)
+	
+	# Display the plane's tail
+	print_tail()
+
+
+# Create the plane
+plane = create_plane(18,6)
+
+# Output the plane's layout
+print_plane(plane)
+
+--OUTPUT-------------------------------------------------------------------------
+Example output:
+Key:
+ U = Empty Seat
+ # = Booked Seat
+ P = Premium Booked Seat
+
+         /\
+        /  \
+       /    \
+      /      \
+     /        \
+    /          \
+   /            \
+  /              \
+    1 2 3   4 5 6
+A | U U U   U U U |
+B | U U U   U U U |
+C | U P P   U U U |
+D | U U U   U U U |
+E | U U U   U U U |
+F | U U U   U P U |
+G | U U U   U U U |
+H | U U U   U U U |
+I | U P U   U U U |
+J | U U U   U U U |
+  ¦               ¦
+K | U U U   # U U |
+L | U U U   U U U |
+M | U U U   U U U |
+N | # # #   U U U |
+O | U U U   U U U |
+P | U U U   # # U |
+Q | U U U   U U U |
+R | U U U   U U U |
+  \              /
+   \            /
+    \          /
+   / \        / \
+  /   \      /   \
+  -----\    /-----
+        \  /
+         \/

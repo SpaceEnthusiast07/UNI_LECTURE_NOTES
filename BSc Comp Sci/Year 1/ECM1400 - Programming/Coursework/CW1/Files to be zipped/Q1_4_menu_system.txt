@@ -1,0 +1,95 @@
+# Function to check if there are any empty seats
+function check_for_empty_seats(plane):	
+	# Initially there are no free seats
+	numOfFreeSeats = 0
+	
+	# Calculate number of seats
+	numOfSeats = plane.length * plane[0].length
+	
+	# Loop through each row of the plane
+	for (i=0; i<plane.length; i++):
+		# Loop through each seat in the current row
+		for (j=0; j<plane[i].length; j++):
+			if (plane[i][j].isBooked == False):
+				# Increment numOfFreeSeats by 1
+				numOfFreeSeats += 1
+	
+	# Return the number of free seats
+	return numOfFreeSeats
+
+# Create a plane with 18 rows, each with 6 seats
+plane = create_plane(18,6)
+
+# Initially set emptySeatsExist to True
+emptySeatsExist = True
+
+# Initailly set numOfFreeSeats to the number of seats
+numOfFreeSeats = plane.length * plane[0].length
+
+# Initialise a list of capitalised characters
+letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q','R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+
+# Loop allowing the user to make several bookings
+while (emptySeatsExist):
+	# Ask the user how many passengers they are booking for
+	numOfPassengers = INTEGER(INPUT("How many passengers?"))
+	
+	# Check if there are enough seats free for the passengers
+	if (numOfPassengers > numOfFreeSeats):
+		# Inform the user that there are not enough seats
+		OUTPUT("There are not enough seats for all your passengers")
+		# Continue to next loop iteration
+		continue
+	
+	# Ask the user if they want a standard or premium seat
+	seatChoice = INPUT("Would you like a standard or premium seat?")
+	
+	# Set up array to hold the chosen seats
+	chosenSeats = []
+	
+	# If they answer standard, call the seat_chooser() function
+	if (seatChoice == "standard"):
+		chosenSeats = seat_chooser(plane)
+	# If they want a premium seat, call premium_seat()
+	else if (seatChoice == "premium"):
+		chosenSeats = premium_seat(plane)
+	# Otherwise they must have entered an incorrect answer
+	else:
+		# Continue to next loop iteration
+		continue
+	
+	# Output the ticket for this booking
+	OUTPUT("-"*20)
+	OUTPUT(">>Ticket<<")
+	OUTPUT("Seat Type: " + seatChoice)
+	
+	# Loop through each chosen seat in the array
+	for (i=0; i<chosenSeats.length; i++):
+		OUTPUT("Seat " + (i+1))
+		OUTPUT("  Seat Code: " + chosenSeats[i])
+		# Check if the seats are premium, if so, print inflight drink
+		if (seatChoice == "premium"):
+			# Calculate which row the seat is on
+			row = letters.indexOf(chosenSeat[i, 0])
+			
+			# Output inflight drink
+			OUTPUT("  Inflight Drink: " + plane[row, chosenSeats[i, 1].inFlightDrink)
+	
+	OUTPUT("-"*20)
+	OUTPUT("")
+	
+	# Check if there are any empty seats
+	numOfEmptySeats = check_for_empty_seats(plane)
+	
+	# If numOfEmptySeats > 0, another booking can be made
+	if (numOfEmptySeats > 0):
+		emptySeatsExist = True
+		# Inform the user of how many seats are available
+		OUTPUT("There is(are) " + numOfEmptySeats + " seat(s) available")
+	# Otherwise, inform user that the plane is full
+	else:
+		OUTPUT("Plane is now full")
+		emptySeatsExist = False
+
+# Output the final state of the plane
+print_plane(plane)
