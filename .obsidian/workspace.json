@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bccd2c66240deb1c",
+        "id": "1d25c8a4ee57d2f4",
         "type": "tabs",
         "children": [
           {
-            "id": "cfc26de7d71466bd",
+            "id": "62203bdfb61c3178",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 7/04.11.25 - Lecture 11 - Relations.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "04.11.25 - Lecture 11 - Relations"
             }
           }
         ]
