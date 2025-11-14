@@ -8,16 +8,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "09d0be6f5b292d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 8/10.11.25 - Lecture 13 - Unsupervised Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.11.25 - Lecture 13 - Unsupervised Learning"
+            }
+          },
+          {
             "id": "53a4c726307d60e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 8/14.11.25 - Lecture 14 -.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "14.11.25 - Lecture 14 -"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,6 +210,11 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20251114111237.png",
+    "Attachments/Pasted image 20251114110653.png",
+    "Attachments/Pasted image 20251114105853.png",
+    "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 8/10.11.25 - Lecture 13 - Unsupervised Learning.md",
+    "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 8/14.11.25 - Lecture 14 -.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Untitled.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 9",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 9",
@@ -209,13 +233,10 @@
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 7/04.11.25 - Lecture 11 - Relations.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Flask & Control Flow.md",
     "Attachments/Pasted image 20251111142251.png",
-    "Attachments/Pasted image 20251111142236.png",
-    "Attachments/Pasted image 20251111141801.png",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 8/11.11.25 - Lecture 14 - Pandas and MatPlotLib.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 8/10.11.25 - Lecture 13 - NumPy.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 8",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 7/07.11.25 - Lecture 12 - Relations.md",
-    "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 8/10.11.25 - Lecture 13 - Unsupervised Learning.md",
     "BSc Comp Sci - Copy/Year 1/COM1011 - Fund. of Machine Learning/Week 3/10.10.25 - Lecture 6 - Overfitting.md",
     "Obsidian Callouts.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 7/04.11.25 - Lecture 12 - Exception Handling and Testing.md",
@@ -235,7 +256,6 @@
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 7/03.11.25 - Lecture 11 - Probabilities.md",
     "conflict-files-obsidian-git.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 5/24.10.25 - Lecture 10 - Functions.md",
-    "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 5/24.10.25 - Lecture 10 -.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
