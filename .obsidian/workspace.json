@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d2bceff64c202f9d",
+        "id": "289b0f40fe92135e",
         "type": "tabs",
         "children": [
           {
-            "id": "d3fd649543b57c7e",
+            "id": "e6698c38c57b6195",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1425 - Placement Preparation/20.11.25 - Lecture 1 - Intro to Year in Industry.md",
+                "file": "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 9/18.11.25 - Lecture 15 - Combinatorics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20.11.25 - Lecture 1 - Intro to Year in Industry"
+              "title": "18.11.25 - Lecture 15 - Combinatorics"
+            }
+          },
+          {
+            "id": "175342153e237b71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 9/21.11.25 - Lecture 16 - Combinatorics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21.11.25 - Lecture 16 - Combinatorics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,21 +210,23 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
-    "BSc Comp Sci/Year 1/Untitled.md",
+    "Attachments/Pasted image 20251121102104.png",
+    "Attachments/Pasted image 20251121102057.png",
+    "Attachments/Pasted image 20251121102043.png",
+    "Attachments/Pasted image 20251121102014.png",
+    "Attachments/Pasted image 20251121101859.png",
+    "Attachments/Pasted image 20251121101819.png",
+    "Attachments/Pasted image 20251121100522.png",
+    "Attachments/Pasted image 20251121100039.png",
+    "Attachments/Pasted image 20251121095929.png",
+    "Attachments/Pasted image 20251121095520.png",
+    "Attachments/Pasted image 20251121095456.png",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 9/21.11.25 - Lecture 16 - Combinatorics.md",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 9/18.11.25 - Lecture 15 - Combinatorics.md",
     "BSc Comp Sci/Year 1/ECM1425 - Placement Preparation/20.11.25 - Lecture 1 - Intro to Year in Industry.md",
+    "BSc Comp Sci/Year 1/Untitled.md",
     "BSc Comp Sci/Year 1/ECM1425 - Placement Preparation",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 9/18.11.25 - Lecture 16 - File IO.md",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 9/18.11.25 - Lecture 15 - Combinatorics.md",
-    "Attachments/Pasted image 20251118145151.png",
-    "Attachments/Pasted image 20251118144732.png",
-    "Attachments/Pasted image 20251118144712.png",
-    "Attachments/Pasted image 20251118144607.png",
-    "Attachments/Pasted image 20251118141540.png",
-    "Attachments/Pasted image 20251118141225.png",
-    "Attachments/Pasted image 20251118141201.png",
-    "Attachments/Pasted image 20251118140949.png",
-    "Attachments/Pasted image 20251118140831.png",
-    "Attachments/Pasted image 20251118140712.png",
     "Untitled.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 9/17.11.25 - Lecture 15 - Clustering Algorithms.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 9/17.11.25 - lecture 15 - Matplotlib.md",
@@ -239,8 +256,6 @@
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 8",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 7/03.11.25 - Lecture 11 - APIs.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 8",
-    "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 7/07.11.25 - Lecture 12 - Hypothesis Testing.md",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/21.10.25 - CW Work.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
