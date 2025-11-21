@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2d02612df49455c",
+        "id": "60b89d0c0c410f6b",
         "type": "tabs",
         "children": [
           {
-            "id": "93ed18ceb0bb5965",
+            "id": "3055ade49fa698c0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,6 +180,7 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 9/21.11.25 - Lecture 16 - Dimensionality Reduction.md",
     "conflict-files-obsidian-git.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 8/10.11.25 - Lecture 13 - NumPy.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 8/11.11.25 - Lecture 14 - Pandas and MatPlotLib.md",
@@ -198,7 +199,6 @@
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 9/17.11.25 - Matplotlib Cheat Sheet.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 9/17.11.25 - lecture 15 - Matplotlib.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 9",
-    "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 9/21.11.25 - Lecture 16 - Dimensionality Reduction.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 9/17.11.25 - Lecture 15 - Clustering Algorithms.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 9",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 8/14.11.25 - Lecture 14 - Clustering Techniques.md",
