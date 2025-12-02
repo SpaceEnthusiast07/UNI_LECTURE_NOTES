@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da7254e871c300ea",
+        "id": "af13743e5e2c870e",
         "type": "tabs",
         "children": [
           {
-            "id": "19ae8e76a748f47e",
+            "id": "3fe88418e5a03954",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lecture 9",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,6 +191,8 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Flask & Control Flow.md",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/02.12.25 - Lecture 19 - Graph Theory.md",
     "Attachments/Pasted image 20251202152402.png",
     "Attachments/Pasted image 20251202152352.png",
     "Attachments/Pasted image 20251202152306.png",
@@ -201,9 +203,7 @@
     "Attachments/Screenshot 2025-12-02 145523 - copy.png",
     "Attachments/Pasted image 20251202145611.png",
     "Attachments/Pasted image 20251202145523.png",
-    "Attachments/Pasted image 20251202141845.png",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 11/02.12.25 - Lecture 20 - Dynamic Programming.md",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/02.12.25 - Lecture 19 - Graph Theory.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 11/01.12.25 - Lecture 19 - Recursion.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 11",
