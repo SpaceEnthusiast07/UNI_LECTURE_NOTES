@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6a52a3888c813d5",
+        "id": "a588d948582f35cb",
         "type": "tabs",
         "children": [
           {
-            "id": "d7c300eda99e4d3b",
+            "id": "44f8d647f7d2883d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -191,19 +191,20 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/04.12.25 - Workshop 10 - Discrete Probability.md",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Flask & Control Flow.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/02.12.25 - Lecture 19 - Graph Theory.md",
-    "Attachments/Pasted image 20251202152402.png",
-    "Attachments/Pasted image 20251202152352.png",
-    "Attachments/Pasted image 20251202152306.png",
-    "Attachments/Pasted image 20251202151445.png",
-    "Attachments/Pasted image 20251202151438.png",
-    "Attachments/Pasted image 20251202151312.png",
-    "Attachments/Pasted image 20251202150835.png",
-    "Attachments/Screenshot 2025-12-02 145523 - copy.png",
-    "Attachments/Pasted image 20251202145611.png",
-    "Attachments/Pasted image 20251202145523.png",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/05.12.25 - Lecture 20 - ....md",
+    "Attachments/Pasted image 20251205110102.png",
+    "Attachments/Pasted image 20251205110056.png",
+    "Attachments/Pasted image 20251205110054.png",
+    "Attachments/Pasted image 20251205105919.png",
+    "Attachments/Pasted image 20251205105108.png",
+    "Attachments/Pasted image 20251205104516.png",
+    "Attachments/Pasted image 20251205104139.png",
+    "Attachments/Pasted image 20251205104056.png",
+    "Attachments/Pasted image 20251205103926.png",
+    "Attachments/Pasted image 20251205103826.png",
+    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Flask & Control Flow.md",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/04.12.25 - Workshop 10 - Discrete Probability.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 11/02.12.25 - Lecture 20 - Dynamic Programming.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 11/01.12.25 - Lecture 19 - Recursion.md",
@@ -235,8 +236,6 @@
     "BSc Comp Sci/Year 1/ECM1407 - Issues of the Information Age/Week 9",
     "BSc Comp Sci/Year 1/ECM1407 - Issues of the Information Age/Week 8",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 9",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 8/11.11.25 - Lecture 13 - Induction and Recursion.md",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 8/14.11.25 - Lecture 14 - Recursive Definitions.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
