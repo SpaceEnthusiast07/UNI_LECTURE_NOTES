@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a588d948582f35cb",
+        "id": "7e933746b36f245c",
         "type": "tabs",
         "children": [
           {
-            "id": "44f8d647f7d2883d",
+            "id": "8e6af9dc0381e7a3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -191,6 +191,9 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 12/11.12.25 - Workshop 11 - Graph Theory.md",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 12",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Untitled.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/02.12.25 - Lecture 19 - Graph Theory.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/05.12.25 - Lecture 20 - ....md",
     "Attachments/Pasted image 20251205110102.png",
@@ -230,12 +233,10 @@
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 10",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 8/10.11.25 - Lecture 13 - Unsupervised Learning.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 8/14.11.25 - Lecture 14 - Clustering Techniques.md",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Untitled.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 9",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 9",
     "BSc Comp Sci/Year 1/ECM1407 - Issues of the Information Age/Week 9",
     "BSc Comp Sci/Year 1/ECM1407 - Issues of the Information Age/Week 8",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 9",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
