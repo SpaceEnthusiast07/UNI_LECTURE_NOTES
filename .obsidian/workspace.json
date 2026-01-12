@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e933746b36f245c",
+        "id": "0ab6ec029b834d73",
         "type": "tabs",
         "children": [
           {
-            "id": "8e6af9dc0381e7a3",
+            "id": "f9c27aa0fb0e0448",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Coursework/CW1/21.10.25 - CW Work.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 21.10.25 - CW Work"
+              "title": "Outline"
             }
           },
           {
@@ -191,21 +190,26 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 1/12.01.26 - Lecture 1 - Operating Systems.md",
+    "Attachments/Pasted image 20260112210207.png",
+    "Attachments/Pasted image 20260112205422.png",
+    "Attachments/Pasted image 20260112205058.png",
+    "Attachments/Pasted image 20260112174141.png",
+    "Attachments/Pasted image 20260112144934.png",
+    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/02.12.25 - Lecture 19 - Graph Theory.md",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Untitled.md",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 1",
+    "BSc Comp Sci/Year 1/Untitled.md",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 12/11.12.25 - Workshop 11 - Graph Theory.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 12",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Untitled.md",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/02.12.25 - Lecture 19 - Graph Theory.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/05.12.25 - Lecture 20 - ....md",
     "Attachments/Pasted image 20251205110102.png",
     "Attachments/Pasted image 20251205110056.png",
     "Attachments/Pasted image 20251205110054.png",
     "Attachments/Pasted image 20251205105919.png",
     "Attachments/Pasted image 20251205105108.png",
-    "Attachments/Pasted image 20251205104516.png",
-    "Attachments/Pasted image 20251205104139.png",
-    "Attachments/Pasted image 20251205104056.png",
-    "Attachments/Pasted image 20251205103926.png",
-    "Attachments/Pasted image 20251205103826.png",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Flask & Control Flow.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/04.12.25 - Workshop 10 - Discrete Probability.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 11/02.12.25 - Lecture 20 - Dynamic Programming.md",
@@ -222,21 +226,15 @@
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 9/21.11.25 - Lecture 16 - Combinatorics.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 9/18.11.25 - Lecture 15 - Combinatorics.md",
     "BSc Comp Sci/Year 1/ECM1425 - Placement Preparation/20.11.25 - Lecture 1 - Intro to Year in Industry.md",
-    "BSc Comp Sci/Year 1/Untitled.md",
     "BSc Comp Sci/Year 1/ECM1425 - Placement Preparation",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 9/18.11.25 - Lecture 16 - File IO.md",
     "Untitled.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 9/17.11.25 - Lecture 15 - Clustering Algorithms.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 9/17.11.25 - lecture 15 - Matplotlib.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 9/17.11.25 - Matplotlib Cheat Sheet.md",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 10.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 10",
-    "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 8/10.11.25 - Lecture 13 - Unsupervised Learning.md",
-    "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 8/14.11.25 - Lecture 14 - Clustering Techniques.md",
     "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 9",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 9",
-    "BSc Comp Sci/Year 1/ECM1407 - Issues of the Information Age/Week 9",
-    "BSc Comp Sci/Year 1/ECM1407 - Issues of the Information Age/Week 8",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
