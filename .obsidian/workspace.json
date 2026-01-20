@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9704f89c6c28bcde",
+        "id": "3f76c207ea139ba2",
         "type": "tabs",
         "children": [
           {
-            "id": "78cae8d57d4639f1",
+            "id": "f02c48217474bec8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -190,6 +190,8 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 2/20.01.26 - lecture 3 - Java Basics 2.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 2",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 2/19.01.26 - Lecture 3 - I,O Management.md",
     "Attachments/Pasted image 20260119143638.png",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 2",
@@ -227,7 +229,6 @@
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 11/02.12.25 - Lecture 20 - Dynamic Programming.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 11/01.12.25 - Lecture 19 - Recursion.md",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 11",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 10/25.11.25 - Lecture 17 - Probability.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 10/28.11.25 - Lecture 18 - Probability.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 10/25.11.25 - Lecture 18 - Sorting Algorithms.md",
