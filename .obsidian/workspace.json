@@ -11,13 +11,28 @@
             "id": "665fc51d50e29da4",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Coursework/20.01.26 - Coursework Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20.01.26 - Coursework Notes"
+            }
+          },
+          {
+            "id": "c164aeb7c47e05a5",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,6 +205,16 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Coursework/20.01.26 - Coursework Notes.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 2/22.01.26 - Lecture 3 - Analysing Algorithms.md",
+    "Attachments/Pasted image 20260122205146.png",
+    "Attachments/Pasted image 20260122205100.png",
+    "Attachments/Pasted image 20260122205050.png",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 2/22.01.26 - Lecture 4 - Loops and OOP.md",
+    "Attachments/Pasted image 20260122171719.png",
+    "Attachments/Pasted image 20260122171714.png",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 2",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Coursework",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 1/16.01.26 - Lecture 2 - File Management.md",
     "Attachments/Pasted image 20260120160133.png",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 2/20.01.26 - lecture 3 - Java Basics 2.md",
@@ -207,34 +232,24 @@
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 1/13.01.26 - Lecture 1 - Intro + History of Java.md",
     "Attachments/Pasted image 20260113154523.png",
-    "Attachments/Pasted image 20260113150912.png",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 1",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 1/12.01.26 - Lecture 1 - Operating Systems.md",
-    "Attachments/Pasted image 20260112210207.png",
-    "Attachments/Pasted image 20260112205422.png",
-    "Attachments/Pasted image 20260112205058.png",
-    "Attachments/Pasted image 20260112174141.png",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/02.12.25 - Lecture 19 - Graph Theory.md",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Untitled.md",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 1",
     "BSc Comp Sci/Year 1/Untitled.md",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 12/11.12.25 - Workshop 11 - Graph Theory.md",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 12",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Untitled.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/05.12.25 - Lecture 20 - ....md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Flask & Control Flow.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/04.12.25 - Workshop 10 - Discrete Probability.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 11/02.12.25 - Lecture 20 - Dynamic Programming.md",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 11/01.12.25 - Lecture 19 - Recursion.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 10/25.11.25 - Lecture 17 - Probability.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 10/28.11.25 - Lecture 18 - Probability.md",
     "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 10/25.11.25 - Lecture 18 - Sorting Algorithms.md",
-    "conflict-files-obsidian-git.md",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 10/24.11.25 - Lecture 17 - Searching Algorithms.md",
-    "BSc Comp Sci/Year 1/COM1011 - Fund. of Machine Learning/Week 9/21.11.25 - Lecture 16 - Dimensionality Reduction.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
