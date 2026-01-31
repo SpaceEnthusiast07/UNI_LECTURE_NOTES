@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "23.01.26 - Lecture 4 - Asymptotic Notations"
             }
+          },
+          {
+            "id": "03e5aa4d21aec1c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 3/30.01.26 - Lecture 6 - Memory Managment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30.01.26 - Lecture 6 - Memory Managment"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,11 +221,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52d7940d23b5f0a2",
+  "active": "03e5aa4d21aec1c5",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 3/30.01.26 - Lecture 6 - Memory Managment.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 2/23.01.26 - Lecture 4 - Asymptotic Notations.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 3/29.01.26 - Lecture 6 - OOP.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Coursework/20.01.26 - Coursework Notes.md",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 3/26.01.26 - Lecture 5 - OOP.md",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 3",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 2/23.01.26 - Lecture 4 - Asymptotic Notations.md",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 3/26.01.26 - Lecture 5 - Processor Management.md",
     "Attachments/Pasted image 20260126151936.png",
     "Untitled 1.md",
@@ -227,7 +244,6 @@
     "Attachments/Pasted image 20260124191803.png",
     "Attachments/Pasted image 20260123145741.png",
     "Untitled.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Coursework/20.01.26 - Coursework Notes.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 2/22.01.26 - Lecture 3 - Analysing Algorithms.md",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 2/22.01.26 - Lecture 4 - Loops and OOP.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 2",
@@ -253,8 +269,6 @@
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 12/11.12.25 - Workshop 11 - Graph Theory.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Untitled.md",
     "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/05.12.25 - Lecture 20 - ....md",
-    "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Flask & Control Flow.md",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/04.12.25 - Workshop 10 - Discrete Probability.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
