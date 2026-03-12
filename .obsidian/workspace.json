@@ -1,70 +1,37 @@
 {
   "main": {
-    "id": "0f7f5ef585e20367",
+    "id": "3d56711b8c8a679e",
     "type": "split",
     "children": [
       {
-        "id": "5a914949c226a3c0",
+        "id": "5bd020b5c26283b2",
         "type": "tabs",
         "children": [
           {
-            "id": "fb35a5c69a2177a3",
+            "id": "b699fc87e2b41487",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9/12.03.26 - Workshop 8.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "12.03.26 - Workshop 8"
-            }
-          },
-          {
-            "id": "aa46630528358264",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/10.03.26 - lecture 17 - Heap, Stack and Lazy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.03.26 - lecture 17 - Heap, Stack and Lazy"
-            }
-          },
-          {
-            "id": "effffbe3af8f0b29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12.03.26 - Lecture 18 - UML"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f51948c9aec937c7",
+    "id": "d7745abac0f6e891",
     "type": "split",
     "children": [
       {
-        "id": "ae43cdd8678113c4",
+        "id": "99ae6a6d673aa8ad",
         "type": "tabs",
         "children": [
           {
-            "id": "6f0399170c8b080a",
+            "id": "7f59cc59f0978f37",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +44,7 @@
             }
           },
           {
-            "id": "f23b3ee3c080d738",
+            "id": "2e754167ae167e74",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +61,7 @@
             }
           },
           {
-            "id": "292ffbc0588821a6",
+            "id": "2fe700751b7d9250",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,7 +71,7 @@
             }
           },
           {
-            "id": "fe90b2d8201406e9",
+            "id": "3e1f9514ab5e2f0a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -121,20 +88,19 @@
     "width": 300
   },
   "right": {
-    "id": "985b66035e746cbf",
+    "id": "9a57fcd8bc83cba2",
     "type": "split",
     "children": [
       {
-        "id": "1bff801d0b06e89b",
+        "id": "e6371f11b9e2db9d",
         "type": "tabs",
         "children": [
           {
-            "id": "06fc94d8e15edde6",
+            "id": "43c2598f124748d3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/10.03.26 - lecture 17 - Heap, Stack and Lazy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,25 +110,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10.03.26 - lecture 17 - Heap, Stack and Lazy"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "daf24e02fb18d143",
+            "id": "bc3a3ebd21b41379",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/10.03.26 - lecture 17 - Heap, Stack and Lazy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 10.03.26 - lecture 17 - Heap, Stack and Lazy"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "45e6c2a203d1910a",
+            "id": "db8d759808285b55",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,18 +142,17 @@
             }
           },
           {
-            "id": "b19701206145bfc7",
+            "id": "b7f375c59dc684aa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/10.03.26 - lecture 17 - Heap, Stack and Lazy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10.03.26 - lecture 17 - Heap, Stack and Lazy"
+              "title": "Outline"
             }
           }
         ],
@@ -212,13 +176,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa46630528358264",
-  "lastOpenFiles": [
-    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9/12.03.26 - Workshop 8.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/12.03.26 - Lecture 17 - Balanced BSTs.md",
-    "Attachments/Pasted image 20260312103956.png",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 8/06.03.26 - Lecture 16 - Binary Search Trees.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9"
-  ]
+  "active": "3e1f9514ab5e2f0a",
+  "lastOpenFiles": []
 }
