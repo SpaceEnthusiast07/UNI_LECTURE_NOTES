@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5bd020b5c26283b2",
+        "id": "1348f8835c79441a",
         "type": "tabs",
         "children": [
           {
-            "id": "b699fc87e2b41487",
+            "id": "5526eba17c35251c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "12.03.26 - Lecture 18 - UML"
             }
           }
         ]
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 12.03.26 - Lecture 18 - UML"
             }
           },
           {
@@ -119,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 12.03.26 - Lecture 18 - UML"
             }
           },
           {
@@ -147,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 12.03.26 - Lecture 18 - UML"
             }
           }
         ],
@@ -177,5 +184,17 @@
     }
   },
   "active": "3e1f9514ab5e2f0a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
+    "Attachments/Pasted image 20260312163447.png",
+    "Attachments/Pasted image 20260312163146.png",
+    "Attachments/Pasted image 20260312162919.png",
+    "Attachments/Pasted image 20260312162459.png",
+    "Attachments/Pasted image 20260312162102.png",
+    "Attachments/Pasted image 20260312161903.png",
+    "Attachments/Pasted image 20260312161641.png",
+    "Attachments/Pasted image 20260312161432.png",
+    "Attachments/Pasted image 20260312161135.png",
+    "Attachments/Pasted image 20260312153734.png"
+  ]
 }
