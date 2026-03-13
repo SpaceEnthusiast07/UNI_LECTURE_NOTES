@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1348f8835c79441a",
+        "id": "ce7201923c8c8cf8",
         "type": "tabs",
         "children": [
           {
-            "id": "5526eba17c35251c",
+            "id": "c6f969bd6f26ea7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
+                "file": "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/12.03.26 - Lecture 17 - Balanced BSTs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.03.26 - Lecture 18 - UML"
+              "title": "12.03.26 - Lecture 17 - Balanced BSTs"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "3e1f9514ab5e2f0a",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/12.03.26 - Lecture 17 - Balanced BSTs.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 8/06.03.26 - Lecture 16 - Binary Search Trees.md",
+    "Attachments/Pasted image 20260313090600.png",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
     "Attachments/Pasted image 20260312174827.png",
     "Attachments/Pasted image 20260312174716.png",
     "Attachments/Pasted image 20260312174446.png",
@@ -193,9 +197,6 @@
     "Attachments/Pasted image 20260312173714.png",
     "Attachments/Pasted image 20260312173640.png",
     "Attachments/Pasted image 20260312173430.png",
-    "Attachments/Pasted image 20260312173050.png",
-    "Attachments/Pasted image 20260312172525.png",
-    "Attachments/Pasted image 20260312172355.png",
-    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md"
+    "Attachments/Pasted image 20260312173050.png"
   ]
 }
