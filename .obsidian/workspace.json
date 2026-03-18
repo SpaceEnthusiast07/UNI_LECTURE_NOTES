@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7a3bf6d47770cbe",
+        "id": "b5fd6dbae652698f",
         "type": "tabs",
         "children": [
           {
-            "id": "d288fe4e445ac1c4",
+            "id": "d66f6b4fc0925f65",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d288fe4e445ac1c4",
+  "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/19.03.26 - Lecture 20 - Even more UML.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/13.03.26 - Lecture 18 - Heaps.md",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/17.03.26 - Lecture 19 - More UML.md",
     "Attachments/Pasted image 20260318133517.png",
