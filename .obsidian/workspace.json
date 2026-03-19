@@ -1,54 +1,69 @@
 {
   "main": {
-    "id": "92b0f64bef5f8e1a",
+    "id": "3d56711b8c8a679e",
     "type": "split",
     "children": [
       {
-        "id": "b5fd6dbae652698f",
+        "id": "0a3c5f6316914939",
         "type": "tabs",
         "children": [
           {
-            "id": "d66f6b4fc0925f65",
+            "id": "33a107cc3237ef61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/13.03.26 - Lecture 18 - AVL Applications and Heaps.md",
+                "file": "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10/19.03.26 - Lecture 19 - Breadth and Depth First Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.03.26 - Lecture 18 - AVL Applications and Heaps"
+              "title": "19.03.26 - Lecture 19 - Breadth and Depth First Search"
+            }
+          },
+          {
+            "id": "49b7f4b6647762fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/19.03.26 - Lecture 20 - UML State Machines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19.03.26 - Lecture 20 - UML State Machines"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b91c9d760538cd5c",
+    "id": "d7745abac0f6e891",
     "type": "split",
     "children": [
       {
-        "id": "03f0cf8941c487df",
+        "id": "99ae6a6d673aa8ad",
         "type": "tabs",
         "children": [
           {
-            "id": "272dde93e1d5abb5",
+            "id": "7f59cc59f0978f37",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "823c46078bf3060a",
+            "id": "2e754167ae167e74",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "aadeb9282f96546f",
+            "id": "2fe700751b7d9250",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,7 +90,7 @@
             }
           },
           {
-            "id": "52d7940d23b5f0a2",
+            "id": "3e1f9514ab5e2f0a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -89,23 +104,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 300
   },
   "right": {
-    "id": "8e34f83526af6615",
+    "id": "9a57fcd8bc83cba2",
     "type": "split",
     "children": [
       {
-        "id": "1862a3553628a66d",
+        "id": "e6371f11b9e2db9d",
         "type": "tabs",
         "children": [
           {
-            "id": "1994fa05b33cb2d0",
+            "id": "43c2598f124748d3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Control Flow.md",
+                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,25 +130,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 21.10.25 - Lecture 10 - Control Flow"
+              "title": "Backlinks for 12.03.26 - Lecture 18 - UML"
             }
           },
           {
-            "id": "d30929cab2d11d34",
+            "id": "bc3a3ebd21b41379",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from 12.03.26 - Lecture 18 - UML"
             }
           },
           {
-            "id": "675b2ee8a2f607c6",
+            "id": "db8d759808285b55",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,21 +163,22 @@
             }
           },
           {
-            "id": "99c1ccee411268fb",
+            "id": "b7f375c59dc684aa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Control Flow.md",
+                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 21.10.25 - Lecture 10 - Control Flow"
+              "title": "Outline of 12.03.26 - Lecture 18 - UML"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,7 +187,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,58 +194,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "52d7940d23b5f0a2",
+  "active": "3e1f9514ab5e2f0a",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260318181625.png",
-    "Attachments/Pasted image 20260318181541.png",
-    "Attachments/Pasted image 20260318181523.png",
-    "Attachments/Pasted image 20260318181034.png",
-    "Attachments/Pasted image 20260318174055.png",
-    "Attachments/Pasted image 20260318174045.png",
-    "Attachments/Pasted image 20260318173930.png",
-    "Attachments/Pasted image 20260318173813.png",
-    "Attachments/Pasted image 20260318173449.png",
-    "Attachments/Pasted image 20260318172958.png",
-    "Attachments/Pasted image 20260318172933.png",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10/20.03.26 - Lecture 20 -.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10/19.03.26 - Lecture 19 -.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10",
-    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/19.03.26 - Lecture 20 - Even more UML.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/13.03.26 - Lecture 18 - AVL Applications and Heaps.md",
-    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/17.03.26 - Lecture 19 - More UML.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/12.03.26 - Lecture 17 - Balanced BSTs.md",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 10/17.03.26 - Lecture 20 - Link Layer.md",
-    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 10/16.03.26 - Lecture 19 - Routing and IPv6.md",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 10",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9/13.03.26 - Lecture 18 - More Internet Layer Stuff.md",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 7/27.02.26 - Lecture 14 - Application Layer.md",
-    "Obsidian Callouts.md",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9/09.03.26 - Lecture 17 - Internet Layer.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9/12.03.26 - Workshop 8.md",
-    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 8/06.03.26 - Lecture 16 - TCP and UDP.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10/19.03.26 - Lecture 19 - Breadth and Depth First Search.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/19.03.26 - Lecture 20 - UML State Machines.md",
+    "Attachments/Pasted image 20260319163922.png",
+    "Attachments/Pasted image 20260319163736.png",
+    "Attachments/Pasted image 20260319163424.png",
+    "Attachments/Pasted image 20260319163009.png",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/10.03.26 - lecture 17 - Heap, Stack and Lazy.md",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 2/23.01.26 - Lecture 4 - Process Management.md",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 3/26.01.26 - Lecture 5 - Processor Management.md",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 3/30.01.26 - Lecture 6 - Memory Managment.md",
+    "Attachments/Pasted image 20260319151229.png",
+    "Attachments/Pasted image 20260319150516.png",
+    "Attachments/Pasted image 20260319145537.png",
+    "Attachments/Pasted image 20260319145514.png",
+    "Attachments/Pasted image 20260319145421.png",
+    "Attachments/Pasted image 20260319145255.png",
     "Untitled.md",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9",
-    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/13.03.26 - Lecture 18 - AVL Applications and Heaps.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10/20.03.26 - Lecture 20 -.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/17.03.26 - Lecture 19 - More UML.md",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 10/17.03.26 - Lecture 20 - Link Layer.md",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 10/16.03.26 - Lecture 19 - Routing and IPv6.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 10",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/12.03.26 - Lecture 17 - Balanced BSTs.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/13.03.26 - Lecture 18 - Heaps.md",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9/13.03.26 - Lecture 18 - More Internet Layer Stuff.md",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9/09.03.26 - Lecture 17 - Internet Layer.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 8/06.03.26 - Lecture 16 - Binary Search Trees.md",
-    "BSc Comp Sci/Year 1/ECM1416 - Computational Maths/Week 8/05.03.26 - Lecture 15 - Markov Chains.md",
-    "BSc Comp Sci/Year 1/ECM1416 - Computational Maths/Week 6/20.02.26 - Lecture 12 - Probability.md",
-    "BSc Comp Sci/Year 1/ECM1416 - Computational Maths/Week 8",
-    "BSc Comp Sci/Year 1/ECM1416 - Computational Maths/Week 6",
-    "BSc Comp Sci/Year 1/ECM1416 - Computational Maths",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 12/11.12.25 - Workshop 11 - Graph Theory.md",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 12",
-    "BSc Comp Sci/Year 1/ECM1415 - Discrete Mathematics/Week 11/05.12.25 - Lecture 20 - ....md",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md"
   ]
 }
