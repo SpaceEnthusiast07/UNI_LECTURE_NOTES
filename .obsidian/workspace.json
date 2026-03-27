@@ -11,10 +11,14 @@
             "id": "a06224aa5cc3be61",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 11/26.03.26 - Lecture 21 - Directed, Acyclic Graphs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "26.03.26 - Lecture 21 - Directed, Acyclic Graphs"
             }
           }
         ]
@@ -178,7 +182,11 @@
   },
   "active": "53538e1ca7d31024",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260327103644.png",
+    "Attachments/Pasted image 20260327102834.png",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 11/26.03.26 - Lecture 21 - Directed, Acyclic Graphs.md",
+    "Attachments/Pasted image 20260327101923.png",
+    "Attachments/Pasted image 20260327101552.png",
     "Attachments/Pasted image 20260326210058.png",
     "Attachments/Pasted image 20260326204722.png",
     "Attachments/Pasted image 20260326204010.png",
