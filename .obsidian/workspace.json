@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "22b7e8122ddf90bd",
+        "id": "5665d2bc2ae89d22",
         "type": "tabs",
         "children": [
           {
-            "id": "f80669e20582ce8e",
+            "id": "96042156018d3124",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5/12.02.26 - Lecture 9 - Lists.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "12.02.26 - Lecture 9 - Lists"
+              "title": "New tab"
             }
           }
         ]
@@ -182,8 +178,11 @@
   },
   "active": "53538e1ca7d31024",
   "lastOpenFiles": [
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 11/27.03.26 - Lecture 22 - Exam Prep with Questions.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5/12.02.26 - Lecture 9 - Lists.md",
+    "Attachments/Pasted image 20260330215455.png",
+    "Attachments/Pasted image 20260330213026.png",
+    "Attachments/Pasted image 20260330212846.png",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 11/27.03.26 - Lecture 22 - Exam Prep with Questions.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 6/20.02.26 - Lecture 12 - Sorting Algorithms.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 7/27.02.26 - Lecture 14 - Hash Tables.md",
@@ -196,7 +195,6 @@
     "Attachments/Pasted image 20260327101552.png",
     "Attachments/Pasted image 20260326210058.png",
     "Attachments/Pasted image 20260326204722.png",
-    "Attachments/Pasted image 20260326204010.png",
-    "Attachments/Pasted image 20260326203518.png"
+    "Attachments/Pasted image 20260326204010.png"
   ]
 }
