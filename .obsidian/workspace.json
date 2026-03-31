@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "b4539815d9f1e698",
+    "id": "92b0f64bef5f8e1a",
     "type": "split",
     "children": [
       {
-        "id": "5665d2bc2ae89d22",
+        "id": "2ceb90ed6d964824",
         "type": "tabs",
         "children": [
           {
-            "id": "96042156018d3124",
+            "id": "c9d37f36544e02ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5/12.02.26 - Lecture 9 - Lists.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "12.02.26 - Lecture 9 - Lists"
             }
           }
         ]
@@ -23,28 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ed6b36803b2837db",
+    "id": "b91c9d760538cd5c",
     "type": "split",
     "children": [
       {
-        "id": "77dc6690034bcd5c",
+        "id": "03f0cf8941c487df",
         "type": "tabs",
         "children": [
           {
-            "id": "fe4ac010de7e4885",
+            "id": "272dde93e1d5abb5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "6ec486ee8878955f",
+            "id": "823c46078bf3060a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "bcf3b2c2c9e12c2f",
+            "id": "aadeb9282f96546f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -71,7 +75,7 @@
             }
           },
           {
-            "id": "53538e1ca7d31024",
+            "id": "52d7940d23b5f0a2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -85,22 +89,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 342.5
   },
   "right": {
-    "id": "8aa8a953f88ed3a1",
+    "id": "8e34f83526af6615",
     "type": "split",
     "children": [
       {
-        "id": "b03f335f4c5281e4",
+        "id": "1862a3553628a66d",
         "type": "tabs",
         "children": [
           {
-            "id": "97cbdc4ade0074eb",
+            "id": "1994fa05b33cb2d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Control Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,24 +115,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 21.10.25 - Lecture 10 - Control Flow"
             }
           },
           {
-            "id": "aec74092ae8344ae",
+            "id": "d30929cab2d11d34",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "d64eb2730af183f2",
+            "id": "675b2ee8a2f607c6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,21 +148,21 @@
             }
           },
           {
-            "id": "93aecc08d340528b",
+            "id": "99c1ccee411268fb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Control Flow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 21.10.25 - Lecture 10 - Control Flow"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,29 +179,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53538e1ca7d31024",
+  "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260331184435.png",
+    "Attachments/Pasted image 20260331184100.png",
+    "Attachments/Pasted image 20260331184004.png",
+    "Attachments/Pasted image 20260331175221.png",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5/12.02.26 - Lecture 9 - Lists.md",
+    "Attachments/Pasted image 20260331165737.png",
+    "Attachments/Pasted image 20260331165136.png",
+    "BSc Comp Sci/Year 1/ECM1416 - Computational Maths/Week 11/26.03.26 - Lecture 21 - Exam Prep.md",
+    "BSc Comp Sci/Year 1/ECM1416 - Computational Maths/Week 11",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 11/27.03.26 - Lecture 22 - Exam Prep with Questions.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 11/26.03.26 - Lecture 21 - Directed, Acyclic Graphs.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 11",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 11/26.03.26 - Lecture 22 - Exam Prep.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 11/24.03.26 - Lecture 21 - Exam Prep.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 11",
     "Attachments/Pasted image 20260330215455.png",
     "Attachments/Pasted image 20260330213026.png",
     "Attachments/Pasted image 20260330212846.png",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 11/27.03.26 - Lecture 22 - Exam Prep with Questions.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 6/20.02.26 - Lecture 12 - Sorting Algorithms.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 7/27.02.26 - Lecture 14 - Hash Tables.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 7/26.02.26 - Lecture 13 - Merge Sort.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 8/05.03.26 - Lecture 15 - Trees.md",
     "Attachments/Pasted image 20260327103644.png",
     "Attachments/Pasted image 20260327102834.png",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 11/26.03.26 - Lecture 21 - Directed, Acyclic Graphs.md",
-    "Attachments/Pasted image 20260327101923.png",
-    "Attachments/Pasted image 20260327101552.png",
-    "Attachments/Pasted image 20260326210058.png",
-    "Attachments/Pasted image 20260326204722.png",
-    "Attachments/Pasted image 20260326204010.png"
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 11/23.03.26 - Lecture 21 - Exam Prep.md",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 11",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10/20.03.26 - Lecture 20 - Prim's and Dijkstra's Algorithm.md",
+    "Untitled.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10/19.03.26 - Lecture 19 - Breadth and Depth First Search.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/19.03.26 - Lecture 20 - UML State Machines.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/13.03.26 - Lecture 18 - AVL Applications and Heaps.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10/19.03.26 - Lecture 19 -.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/19.03.26 - Lecture 20 - Even more UML.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/17.03.26 - Lecture 19 - More UML.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/12.03.26 - Lecture 17 - Balanced BSTs.md",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 10/17.03.26 - Lecture 20 - Link Layer.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 10/16.03.26 - Lecture 19 - Routing and IPv6.md",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 10",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9/13.03.26 - Lecture 18 - More Internet Layer Stuff.md",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 7/27.02.26 - Lecture 14 - Application Layer.md",
+    "Obsidian Callouts.md",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9/09.03.26 - Lecture 17 - Internet Layer.md",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9/12.03.26 - Workshop 8.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 8/06.03.26 - Lecture 16 - TCP and UDP.md",
+    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }
