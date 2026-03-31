@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2ceb90ed6d964824",
+        "id": "3c86b6914954c764",
         "type": "tabs",
         "children": [
           {
-            "id": "c9d37f36544e02ab",
+            "id": "522810376af5b363",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5/12.02.26 - Lecture 9 - Lists.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "12.02.26 - Lecture 9 - Lists"
+              "title": "New tab"
             }
           }
         ]
@@ -184,13 +180,18 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5/13.03.26 - Lecture 10 - Stacks and Queues.md",
+    "Attachments/Pasted image 20260331193351.png",
+    "Attachments/Pasted image 20260331193328.png",
+    "Attachments/Pasted image 20260331193153.png",
+    "Attachments/Pasted image 20260331193126.png",
+    "Attachments/Pasted image 20260331191947.png",
+    "Attachments/Pasted image 20260331190418.png",
+    "Attachments/Pasted image 20260331190227.png",
+    "Attachments/Pasted image 20260331190202.png",
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5/12.02.26 - Lecture 9 - Lists.md",
     "Attachments/Pasted image 20260331184435.png",
     "Attachments/Pasted image 20260331184100.png",
-    "Attachments/Pasted image 20260331184004.png",
-    "Attachments/Pasted image 20260331175221.png",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5/12.02.26 - Lecture 9 - Lists.md",
-    "Attachments/Pasted image 20260331165737.png",
-    "Attachments/Pasted image 20260331165136.png",
     "BSc Comp Sci/Year 1/ECM1416 - Computational Maths/Week 11/26.03.26 - Lecture 21 - Exam Prep.md",
     "BSc Comp Sci/Year 1/ECM1416 - Computational Maths/Week 11",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5",
@@ -200,11 +201,6 @@
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 11/26.03.26 - Lecture 22 - Exam Prep.md",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 11/24.03.26 - Lecture 21 - Exam Prep.md",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 11",
-    "Attachments/Pasted image 20260330215455.png",
-    "Attachments/Pasted image 20260330213026.png",
-    "Attachments/Pasted image 20260330212846.png",
-    "Attachments/Pasted image 20260327103644.png",
-    "Attachments/Pasted image 20260327102834.png",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 11/23.03.26 - Lecture 21 - Exam Prep.md",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 11",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10/20.03.26 - Lecture 20 - Prim's and Dijkstra's Algorithm.md",
@@ -228,7 +224,6 @@
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9/12.03.26 - Workshop 8.md",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 8/06.03.26 - Lecture 16 - TCP and UDP.md",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9",
     "Untitled.canvas",
     "Untitled 1.canvas"
