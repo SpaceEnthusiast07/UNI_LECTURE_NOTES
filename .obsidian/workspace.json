@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dcbbec737350870d",
+        "id": "ff476ccdf50d33d8",
         "type": "tabs",
         "children": [
           {
-            "id": "cca070b5fd7a6e3c",
+            "id": "bbecdf9c2a8f7f82",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,6 +180,7 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 7/27.02.26 - Lecture 14 - Hashing.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 7/26.02.26 - Lecture 13 - Merge, Radix and Counting Sort.md",
     "Attachments/Pasted image 20260402154829.png",
     "Attachments/Pasted image 20260402153916.png",
@@ -187,7 +188,6 @@
     "Attachments/Pasted image 20260401190330.png",
     "Attachments/Pasted image 20260401190316.png",
     "Attachments/Pasted image 20260401190221.png",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 7/27.02.26 - Lecture 14 - Hash Tables.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 6/20.02.26 - Lecture 12 - Quicksort and Divide and Conquer.md",
     "Attachments/Pasted image 20260401172544.png",
     "Attachments/Pasted image 20260401172514.png",
