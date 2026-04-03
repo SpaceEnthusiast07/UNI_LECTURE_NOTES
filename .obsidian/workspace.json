@@ -11,10 +11,14 @@
             "id": "bbecdf9c2a8f7f82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 7/27.02.26 - Lecture 14 - Hashing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "27.02.26 - Lecture 14 - Hashing"
             }
           }
         ]
