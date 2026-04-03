@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ff476ccdf50d33d8",
+        "id": "ec1ea937808b747b",
         "type": "tabs",
         "children": [
           {
-            "id": "bbecdf9c2a8f7f82",
+            "id": "87380796e0e81c6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 7/27.02.26 - Lecture 14 - Hashing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "27.02.26 - Lecture 14 - Hashing"
+              "title": "New tab"
             }
           }
         ]
@@ -184,6 +180,14 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 5/12.02.26 - Lecture 10 - Abstract Classes and Interfaces.md",
+    "Attachments/Pasted image 20260403164915.png",
+    "Attachments/Pasted image 20260403163340.png",
+    "Attachments/Pasted image 20260403163336.png",
+    "Untitled.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 5/10.02.26 - Lecture 9 - More About Classes.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 4/05.02.26 - Lecture 8 - Arrays & Single Parent Inheritance.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 4/03.02.26 - Lecture 7 - Primitive Wrapper Classes and Strings.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 7/27.02.26 - Lecture 14 - Hashing.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 7/26.02.26 - Lecture 13 - Merge, Radix and Counting Sort.md",
     "Attachments/Pasted image 20260402154829.png",
@@ -194,9 +198,6 @@
     "Attachments/Pasted image 20260401190221.png",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 6/20.02.26 - Lecture 12 - Quicksort and Divide and Conquer.md",
     "Attachments/Pasted image 20260401172544.png",
-    "Attachments/Pasted image 20260401172514.png",
-    "Attachments/Pasted image 20260401171022.png",
-    "Attachments/Pasted image 20260401164617.png",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 6/19.02.26 - Lecture 11 - Brute Force and Basics of Sorting.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5/13.02.26 - Lecture 10 - Stacks and Queues.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5/12.02.26 - Lecture 9 - Lists.md",
@@ -212,7 +213,6 @@
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 11/23.03.26 - Lecture 21 - Exam Prep.md",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 11",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10/20.03.26 - Lecture 20 - Prim's and Dijkstra's Algorithm.md",
-    "Untitled.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10/19.03.26 - Lecture 19 - Breadth and Depth First Search.md",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/19.03.26 - Lecture 20 - UML State Machines.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/13.03.26 - Lecture 18 - AVL Applications and Heaps.md",
@@ -221,12 +221,8 @@
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/19.03.26 - Lecture 20 - Even more UML.md",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/17.03.26 - Lecture 19 - More UML.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/12.03.26 - Lecture 17 - Balanced BSTs.md",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 10/17.03.26 - Lecture 20 - Link Layer.md",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 10/16.03.26 - Lecture 19 - Routing and IPv6.md",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 10",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9/13.03.26 - Lecture 18 - More Internet Layer Stuff.md",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 7/27.02.26 - Lecture 14 - Application Layer.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 9",
     "Untitled.canvas",
