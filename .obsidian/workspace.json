@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "06267018fc7d8d3e",
+        "id": "b6f402e37e94642e",
         "type": "tabs",
         "children": [
           {
-            "id": "9fa81bebd0541ee7",
+            "id": "057e6b1d547b5cc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 7/23.02.26 - Lecture 13 - Interfaces and Packages.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "23.02.26 - Lecture 13 - Interfaces and Packages"
+              "title": "New tab"
             }
           }
         ]
@@ -184,6 +180,7 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 7/23.02.26 - Lecture 13 - Interfaces and Packages.md",
     "Attachments/Pasted image 20260403174559.png",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 6/19.02.26 - Lecture 12 - Enums and JavaDoc.md",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 6/17.01.26 - Lecture 11 - Exceptions.md",
@@ -204,7 +201,6 @@
     "Attachments/Pasted image 20260401190316.png",
     "Attachments/Pasted image 20260401190221.png",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 6/20.02.26 - Lecture 12 - Quicksort and Divide and Conquer.md",
-    "Attachments/Pasted image 20260401172544.png",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 6/19.02.26 - Lecture 11 - Brute Force and Basics of Sorting.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5/13.02.26 - Lecture 10 - Stacks and Queues.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5/12.02.26 - Lecture 9 - Lists.md",
