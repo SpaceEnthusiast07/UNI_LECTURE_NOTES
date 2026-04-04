@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b6f402e37e94642e",
+        "id": "ff74d309db0828ac",
         "type": "tabs",
         "children": [
           {
-            "id": "057e6b1d547b5cc3",
+            "id": "350aa333d1196af0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 7/26.02.26 - Lecture 14 - JAR Files, DbC and Assertions.md",
+                "file": "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 8/03.03.26 - Lecture 15 - IO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26.02.26 - Lecture 14 - JAR Files, DbC and Assertions"
+              "title": "03.03.26 - Lecture 15 - IO"
             }
           }
         ]
@@ -184,6 +184,13 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 8/05.03.26 - Lecture 16 - Serialisation.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/19.03.26 - Lecture 20 - UML State Machines.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/17.03.26 - Lecture 19 - More UML.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/12.03.26 - Lecture 18 - UML.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 9/10.03.26 - lecture 17 - Heap, Stack and Lazy.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 8/03.03.26 - Lecture 15 - IO.md",
+    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 7/26.02.26 - Lecture 14 - JAR Files, DbC and Assertions.md",
     "Attachments/Pasted image 20260404150058.png",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 7/23.02.26 - Lecture 13 - Interfaces and Packages.md",
     "Attachments/Pasted image 20260403174559.png",
@@ -204,7 +211,6 @@
     "Attachments/Pasted image 20260401193036.png",
     "Attachments/Pasted image 20260401190330.png",
     "Attachments/Pasted image 20260401190316.png",
-    "Attachments/Pasted image 20260401190221.png",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 6/20.02.26 - Lecture 12 - Quicksort and Divide and Conquer.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 6/19.02.26 - Lecture 11 - Brute Force and Basics of Sorting.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 5/13.02.26 - Lecture 10 - Stacks and Queues.md",
@@ -218,13 +224,7 @@
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 11/26.03.26 - Lecture 22 - Exam Prep.md",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 11/24.03.26 - Lecture 21 - Exam Prep.md",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 11",
-    "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 11/23.03.26 - Lecture 21 - Exam Prep.md",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 11",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10/20.03.26 - Lecture 20 - Prim's and Dijkstra's Algorithm.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10/19.03.26 - Lecture 19 - Breadth and Depth First Search.md",
-    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10/19.03.26 - Lecture 20 - UML State Machines.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 9/13.03.26 - Lecture 18 - AVL Applications and Heaps.md",
-    "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10/19.03.26 - Lecture 19 -.md",
     "BSc Comp Sci/Year 1/ECM1414 - Data Structures and Algorithms/Week 10",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 10",
     "BSc Comp Sci/Year 1/ECM1413 - Computers and the Internet/Week 10",
