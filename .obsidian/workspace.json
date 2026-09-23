@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b91c4738ca09806",
+        "id": "b9b16d55d78466c4",
         "type": "tabs",
         "children": [
           {
-            "id": "e4c3f0d992107268",
+            "id": "d0a44bccf579ef10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 1/23.9.26 - Lecture 1 - Intro.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "23.9.26 - Lecture 1 - Intro"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "be9ea7fb4c3f3378",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -99,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 1/23.9.26 - Lecture 1 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 1/23.9.26 - Lecture 1 - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -147,7 +152,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 1/23.9.26 - Lecture 1 - Intro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -155,23 +159,14 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "be9ea7fb4c3f3378",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +181,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e4c3f0d992107268",
+  "active": "be9ea7fb4c3f3378",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Coursework/ECM2419_CA_Spec_2026-27.pdf",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Coursework",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 1/23.9.26 - Lecture 1 - Intro.md",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 1/23.9.26 - Lecture 1 - Intro + Database Basics.md",
     "Attachments/Pasted image 20260923095632.png"
