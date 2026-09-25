@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "89e7a10ae735f762",
+        "id": "c97c03f67c1e12e0",
         "type": "tabs",
         "children": [
           {
-            "id": "a78ecef1ab74ab56",
+            "id": "0afe46990a8506fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 1/25.9.26 - Lecture 2 - Nested Classes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "25.9.26 - Lecture 2 - Nested Classes"
             }
           }
         ]
@@ -183,6 +187,10 @@
   },
   "active": "be9ea7fb4c3f3378",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 1/24.9.26 - Lecture 2 - Basics of Haskell.md",
+    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 1/25.9.26 - Lecture 2 - Nested Classes.md",
+    "Untitled.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 1/22.9.26 - Lecture 2 - Foundations and Access Control.md",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 1/24.9.26 - Lecture 2 - Overview of Database Systems.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 1/24.9.26 - Workshop 1.md",
     "Attachments/Pasted image 20260924153221.png",
