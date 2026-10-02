@@ -78,17 +78,13 @@
             }
           },
           {
-            "id": "334029f19bbb3350",
+            "id": "0ffaf51ea581769f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 2/30.9.26 - Lecture 3 - Concurrency 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "30.9.26 - Lecture 3 - Concurrency 1"
+              "title": "New tab"
             }
           }
         ],
@@ -258,9 +254,9 @@
   },
   "active": "be9ea7fb4c3f3378",
   "lastOpenFiles": [
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 2/30.9.26 - Lecture 3 - Data Models.md",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 2/30.9.26 - Lecture 3 - Concurrency 1.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 2/2.10.26 - Lecture 4 - Concurrency 2.md",
+    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 2/30.9.26 - Lecture 3 - Concurrency 1.md",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 2/30.9.26 - Lecture 3 - Data Models.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 2/1.10.26 - Lecture 4 - List Comprehensions.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 2/1.10.16 - Workshop 2 - Access Control and Cryptography.md",
     "Attachments/Pasted image 20261001163513.png",
