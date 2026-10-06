@@ -1,80 +1,80 @@
 {
   "main": {
-    "id": "397db4add33d28c6",
+    "id": "2e00dbfaba695179",
     "type": "split",
     "children": [
       {
-        "id": "c97c03f67c1e12e0",
+        "id": "547012b7d036eb67",
         "type": "tabs",
         "children": [
           {
-            "id": "b8b354164ac9f2fc",
+            "id": "83174839880b564a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 2/29.9.26 - Lecture 3 - End of Access Control.md",
+                "file": "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3/5.10.26 - Workshop 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29.9.26 - Lecture 3 - End of Access Control"
+              "title": "5.10.26 - Workshop 1"
             }
           },
           {
-            "id": "84e97a92bb6c6629",
+            "id": "95a3fafa7d7cb87c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 2/29.9.26 - Lecture 4 - Start of Cryptography.md",
+                "file": "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/5.10.26 - Lecture 5 - Tuples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29.9.26 - Lecture 4 - Start of Cryptography"
+              "title": "5.10.26 - Lecture 5 - Tuples"
             }
           },
           {
-            "id": "d9c5f670557d76f8",
+            "id": "bb3079a3ddeee5b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 2/30.9.26 - Lecture 3 - Data Models.md",
+                "file": "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3/6.10.26 - Lecture 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30.9.26 - Lecture 3 - Data Models"
+              "title": "6.10.26 - Lecture 5"
             }
           },
           {
-            "id": "4c55a9abd1ee1e5b",
+            "id": "aa77a5ad12155977",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 2/1.10.26 - Lecture 4 - List Comprehensions.md",
+                "file": "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3/6.10.26 - Lecture 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.10.26 - Lecture 4 - List Comprehensions"
+              "title": "6.10.26 - Lecture 6"
             }
           },
           {
-            "id": "ccd2dc1cb2456af8",
+            "id": "719d4253ff6259c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 2/2.10.26 - Lecture 4 - Concurrency 2.md",
+                "file": "BSc Comp Sci/Year 2/ECM2400 - Employability/Week 3/6.10.26 - Lecture 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.10.26 - Lecture 4 - Concurrency 2"
+              "title": "6.10.26 - Lecture 2"
             }
           }
         ],
@@ -84,15 +84,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "15d6dde672c953d3",
+    "id": "4aa737acfacecb9e",
     "type": "split",
     "children": [
       {
-        "id": "89e573cdf6072436",
+        "id": "6a2859fb3e1a9aba",
         "type": "tabs",
         "children": [
           {
-            "id": "b3c77d2bf362ad5c",
+            "id": "01be4a4c000a5f43",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -107,7 +107,7 @@
             }
           },
           {
-            "id": "3f4594698fe16a8f",
+            "id": "05ddfecec87765ca",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -124,7 +124,7 @@
             }
           },
           {
-            "id": "baf11bd696370fa6",
+            "id": "0754bc5f30b612cb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "be9ea7fb4c3f3378",
+            "id": "0696b072f7d3140f",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -154,19 +154,20 @@
     "width": 300
   },
   "right": {
-    "id": "ca2b604b91be3904",
+    "id": "62f3d883c4190d91",
     "type": "split",
     "children": [
       {
-        "id": "a3f555cc7dbd929b",
+        "id": "ddb005c02231ea10",
         "type": "tabs",
         "children": [
           {
-            "id": "abd41d44a9306ec0",
+            "id": "2f76fd427a2ad75f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BSc Comp Sci/Year 2/ECM2400 - Employability/Week 3/6.10.26 - Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,11 +181,12 @@
             }
           },
           {
-            "id": "d62bde504d0840f4",
+            "id": "d0045801d215b429",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BSc Comp Sci/Year 2/ECM2400 - Employability/Week 3/6.10.26 - Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -193,7 +195,7 @@
             }
           },
           {
-            "id": "4bc880d5209899d6",
+            "id": "4e7e9f0162fb7d45",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -208,11 +210,12 @@
             }
           },
           {
-            "id": "91798b8c602e3286",
+            "id": "31e54cc50e9b9622",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "BSc Comp Sci/Year 2/ECM2400 - Employability/Week 3/6.10.26 - Lecture 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -242,45 +245,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be9ea7fb4c3f3378",
+  "active": "719d4253ff6259c0",
   "lastOpenFiles": [
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 2/2.10.26 - Workshop 1.md",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Coursework/2.10.26 - CW Notes.md",
-    "Obsidian Callouts.md",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Coursework",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 2/2.10.26 - Lecture 4 - Concurrency 2.md",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 2/30.9.26 - Lecture 3 - Concurrency 1.md",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 2/30.9.26 - Lecture 3 - Data Models.md",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 2/1.10.26 - Lecture 4 - List Comprehensions.md",
-    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 2/1.10.16 - Workshop 2 - Access Control and Cryptography.md",
-    "Attachments/Pasted image 20261001163513.png",
-    "Attachments/Pasted image 20261001163415.png",
-    "Attachments/Pasted image 20261001163252.png",
-    "Attachments/Pasted image 20261001163242.png",
-    "Attachments/Pasted image 20261001163218.png",
-    "Attachments/Pasted image 20261001163159.png",
-    "Attachments/Pasted image 20261001163100.png",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 2/28.9.26 - Lecture 3 - Lists.md",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 2/1.10.26 - Lecture 4 - ER Modelling 1.md",
-    "Attachments/Pasted image 20261001123400.png",
-    "Attachments/Pasted image 20261001122942.png",
-    "Attachments/Pasted image 20261001122833.png",
-    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 2/29.9.26 - Lecture 4 - Start of Cryptography.md",
-    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 2/29.9.26 - Lecture 3 - End of Access Control.md",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 1/25.9.26 - Lecture 2 - Nested Classes.md",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 2",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 2/29.9.26 - Workshop 1.md",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 2",
-    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 2",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 1/24.9.26 - Lecture 2 - Basics of Haskell.md",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 2",
-    "Untitled.md",
-    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 1/22.9.26 - Lecture 2 - Foundations and Access Control.md",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 1/24.9.26 - Lecture 2 - Overview of Database Systems.md",
-    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 1/24.9.26 - Workshop 1.md",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Coursework/ECM2419_CA_Spec_2026-27.pdf",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Coursework",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 1/23.9.26 - Lecture 1 - Intro.md",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 1/23.9.26 - Lecture 1 - Intro + Database Basics.md"
+    "Attachments/Pasted image 20261006153828.png",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3/6.10.26 - Lecture 5.md",
+    "BSc Comp Sci/Year 2/ECM2400 - Employability/Week 3/6.10.26 - Lecture 2.md",
+    "BSc Comp Sci/Year 2/ECM2400 - Employability/Week 3",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3/6.10.26 - Lecture 6.md",
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/5.10.26 - Lecture 5 - Tuples.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3",
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3/5.10.26 - Workshop 1.md",
+    "Attachments/Pasted image 20261005115703.png",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3"
   ]
 }
