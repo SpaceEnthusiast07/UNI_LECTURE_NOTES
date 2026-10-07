@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4d50ff2ff03c71bb",
+        "id": "56a0d5ae925adef6",
         "type": "tabs",
         "children": [
           {
-            "id": "4844c6d05bb98920",
+            "id": "c055c1c72feac7e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3/7.10.26 - Lecture 5 - Concurrency 3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "7.10.26 - Lecture 5 - Concurrency 3"
+              "title": "New tab"
             }
           }
         ]
@@ -186,8 +182,12 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
-    "Obsidian Callouts.md",
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/8.10.26 - Lecture 6 - Design Patterns.md",
+    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3/9.10.26 - Lecture 6 - Version Control.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3/8.10.26 - Workshop 3 -.md",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3/8.10.26 - Lecture 6 - Advanced ER Modelling.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3/7.10.26 - Lecture 5 - Concurrency 3.md",
+    "Obsidian Callouts.md",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3/7.10.26 - lecture 5 - ER Model.md",
     "Attachments/Pasted image 20261007161544.png",
     "Attachments/Pasted image 20261007161256.png",
@@ -217,10 +217,6 @@
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 2/28.9.26 - Lecture 3 - Lists.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 2/2.10.26 - Workshop 1.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 2/1.10.26 - Lecture 4 - List Comprehensions.md",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 1/25.9.26 - Lecture 2 - Nested Classes.md",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 1/23.9.26 - Lecture 1 - Intro.md",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 2/30.9.26 - Lecture 3 - Concurrency 1.md",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 2/2.10.26 - Lecture 4 - Concurrency 2.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 2",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 1",
