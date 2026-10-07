@@ -11,10 +11,14 @@
             "id": "4844c6d05bb98920",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3/7.10.26 - Lecture 5 - Concurrency 3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "7.10.26 - Lecture 5 - Concurrency 3"
             }
           }
         ]
@@ -182,13 +186,14 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "Obsidian Callouts.md",
+    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3/7.10.26 - Lecture 5 - Concurrency 3.md",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3/7.10.26 - lecture 5 - ER Model.md",
     "Attachments/Pasted image 20261007161544.png",
     "Attachments/Pasted image 20261007161256.png",
     "Attachments/Pasted image 20261007160602.png",
     "Attachments/Pasted image 20261007160026.png",
     "Attachments/Pasted image 20261007155356.png",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3/7.10.26 - Lecture 5 - Concurrency 3.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3",
     "Attachments/Pasted image 20261007132448.png",
     "Attachments/Pasted image 20261007092507.png",
