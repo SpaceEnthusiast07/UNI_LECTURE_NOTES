@@ -11,10 +11,14 @@
             "id": "c055c1c72feac7e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3/8.10.26 - Lecture 6 - Advanced ER Modelling.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "8.10.26 - Lecture 6 - Advanced ER Modelling"
             }
           }
         ]
@@ -182,6 +186,13 @@
   },
   "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20261008132513.png",
+    "Attachments/Pasted image 20261008132431.png",
+    "Attachments/Pasted image 20261008132322.png",
+    "Attachments/Pasted image 20261008132206.png",
+    "Attachments/ERD_Specialisation_Example 2.svg",
+    "Attachments/ERD_Specialisation_Example 1.svg",
+    "Attachments/ERD_Specialisation_Example.svg",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/8.10.26 - Lecture 6 - Design Patterns.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3/9.10.26 - Lecture 6 - Version Control.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3/8.10.26 - Workshop 3 -.md",
@@ -193,10 +204,7 @@
     "Attachments/Pasted image 20261007161256.png",
     "Attachments/Pasted image 20261007160602.png",
     "Attachments/Pasted image 20261007160026.png",
-    "Attachments/Pasted image 20261007155356.png",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3",
-    "Attachments/Pasted image 20261007132448.png",
-    "Attachments/Pasted image 20261007092507.png",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 2/29.9.26 - Lecture 4 - Start of Cryptography.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3/6.10.26 - Lecture 6.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3/6.10.26 - Lecture 5.md",
@@ -216,7 +224,6 @@
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 1/21.9.26 - Lecture 1 - Intro.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 2/28.9.26 - Lecture 3 - Lists.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 2/2.10.26 - Workshop 1.md",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 2/1.10.26 - Lecture 4 - List Comprehensions.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 2",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 1",
@@ -225,9 +232,6 @@
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Coursework",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 1",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3",
-    "Attachments/Pasted image 20261006153828.png",
-    "Attachments/Pasted image 20261005115703.png",
-    "Attachments/Pasted image 20261001163513.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
