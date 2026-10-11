@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "4baf2ef293a3c0b4",
+    "id": "92b0f64bef5f8e1a",
     "type": "split",
     "children": [
       {
-        "id": "9533674703f45cec",
+        "id": "56a0d5ae925adef6",
         "type": "tabs",
         "children": [
           {
-            "id": "577abe16f984fc72",
+            "id": "c055c1c72feac7e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/9.10.26 - Workshop 2.md",
+                "file": "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Coursework/11.10.26 - Coursework Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.10.26 - Workshop 2"
+              "title": "11.10.26 - Coursework Notes"
             }
           }
         ]
@@ -27,21 +27,21 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "207c0a90cee32d43",
+    "id": "b91c9d760538cd5c",
     "type": "split",
     "children": [
       {
-        "id": "5ae1cd69e4ca2eaf",
+        "id": "03f0cf8941c487df",
         "type": "tabs",
         "children": [
           {
-            "id": "39db5a9d68404f57",
+            "id": "272dde93e1d5abb5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "28a950daf82e6a89",
+            "id": "823c46078bf3060a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,20 +67,17 @@
             }
           },
           {
-            "id": "1ab509a572cc3eb0",
+            "id": "aadeb9282f96546f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
+              "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           },
           {
-            "id": "11f8375a17f23b79",
+            "id": "52d7940d23b5f0a2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -94,23 +91,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 342.5
   },
   "right": {
-    "id": "c99a1dd2f175f125",
+    "id": "8e34f83526af6615",
     "type": "split",
     "children": [
       {
-        "id": "a21e9fe78d1f630f",
+        "id": "1862a3553628a66d",
         "type": "tabs",
         "children": [
           {
-            "id": "1135e31933965166",
+            "id": "1994fa05b33cb2d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/9.10.26 - Workshop 2.md",
+                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Control Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +117,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 21.10.25 - Lecture 10 - Control Flow"
             }
           },
           {
-            "id": "df85dffb8c99fc80",
+            "id": "d30929cab2d11d34",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/9.10.26 - Workshop 2.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "a262927d0be90e42",
+            "id": "675b2ee8a2f607c6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,22 +150,21 @@
             }
           },
           {
-            "id": "d995c2e06dc9c836",
+            "id": "99c1ccee411268fb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/9.10.26 - Workshop 2.md",
+                "file": "BSc Comp Sci/Year 1/ECM1400 - Programming/Week 5/21.10.25 - Lecture 10 - Control Flow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 21.10.25 - Lecture 10 - Control Flow"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,17 +181,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11f8375a17f23b79",
+  "active": "52d7940d23b5f0a2",
   "lastOpenFiles": [
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Coursework",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/8.10.26 - Lecture 6 - Design Patterns.md",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/9.10.26 - Workshop 2.md",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Coursework/11.10.26 - Coursework Notes.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3/9.10.26 - Lecture 6 - Testing Fundamentals.md",
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/9.10.26 - Workshop 2.md",
     "Attachments/Pasted image 20261009114700.png",
-    "Attachments/Pasted image 20261009101042.png"
+    "Attachments/Pasted image 20261009101042.png",
+    "Attachments/Pasted image 20261008132513.png",
+    "Attachments/Pasted image 20261008132431.png",
+    "Attachments/Pasted image 20261008132322.png",
+    "Attachments/Pasted image 20261008132206.png",
+    "Attachments/ERD_Specialisation_Example.svg",
+    "Attachments/ERD_Specialisation_Example 2.svg",
+    "Attachments/ERD_Specialisation_Example 1.svg",
+    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3/9.10.26 - Lecture 6 - Version Control.md",
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/8.10.26 - Lecture 6 - Design Patterns.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3/8.10.26 - Workshop 3 -.md",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3/8.10.26 - Lecture 6 - Advanced ER Modelling.md",
+    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3/7.10.26 - Lecture 5 - Concurrency 3.md",
+    "Obsidian Callouts.md",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3/7.10.26 - lecture 5 - ER Model.md",
+    "Attachments/Pasted image 20261007161544.png",
+    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 2/29.9.26 - Lecture 4 - Start of Cryptography.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3/6.10.26 - Lecture 6.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3/6.10.26 - Lecture 5.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 2/29.9.26 - Lecture 3 - End of Access Control.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 2/1.10.16 - Workshop 2 - Access Control and Cryptography.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 1/24.9.26 - Workshop 1.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 1/22.9.26 - Lecture 2 - Foundations and Access Control.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 1/22.9.26 - Lecture 1 - Intro.md",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3/5.10.26 - Workshop 1.md",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 2/1.10.26 - Lecture 4 - ER Modelling 1.md",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 2/30.9.26 - Lecture 3 - Data Models.md",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Coursework/ECM2419_CA_Spec_2026-27.pdf",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 1/24.9.26 - Lecture 2 - Overview of Database Systems.md",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 1/23.9.26 - Lecture 1 - Intro + Database Basics.md",
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/5.10.26 - Lecture 5 - Tuples.md",
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 1/24.9.26 - Lecture 2 - Basics of Haskell.md",
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 1/21.9.26 - Lecture 1 - Intro.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 3",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 2",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 1",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 2",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Coursework",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 1",
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }
