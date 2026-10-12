@@ -11,14 +11,10 @@
             "id": "dccbc22d73c8f630",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 4/12.10.26 - Lecture 7 - Type Variables.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "12.10.26 - Lecture 7 - Type Variables"
+              "title": "New tab"
             }
           }
         ]
@@ -189,6 +185,8 @@
   "lastOpenFiles": [
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 4/12.10.26 - Lecture 7 - Type Variables.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 4",
+    "conflict-files-obsidian-git.md",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Coursework/11.10.26 - Coursework Notes.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Untitled.canvas",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/9.10.26 - Workshop 2.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Coursework",
