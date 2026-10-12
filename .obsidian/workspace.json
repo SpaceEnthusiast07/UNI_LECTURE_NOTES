@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "81c8200d05f24e7c",
+        "id": "2385ca8b1f7a22a9",
         "type": "tabs",
         "children": [
           {
-            "id": "dccbc22d73c8f630",
+            "id": "a16932e65de52552",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3/8.10.26 - Lecture 6 - Advanced ER Modelling.md",
+                "bFile": "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3/8.10.26 - Lecture 6 - Advanced ER Modelling.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 8.10.26 - Lecture 6 - Advanced ER Modelling"
             }
           }
         ]
@@ -181,14 +185,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11f8375a17f23b79",
+  "active": "a16932e65de52552",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/9.10.26 - Workshop 2.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 4/12.10.26 - Lecture 7 - Type Variables.md",
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 4",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3/8.10.26 - Lecture 6 - Advanced ER Modelling.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 4",
     "conflict-files-obsidian-git.md",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Coursework/11.10.26 - Coursework Notes.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Untitled.canvas",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/9.10.26 - Workshop 2.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Coursework",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/8.10.26 - Lecture 6 - Design Patterns.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3/9.10.26 - Lecture 6 - Testing Fundamentals.md",
