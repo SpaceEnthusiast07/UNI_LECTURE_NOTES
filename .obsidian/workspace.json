@@ -76,9 +76,37 @@
               "icon": "lucide-file",
               "title": "15.10.26 - Lecture 8 - Higher Order Functions"
             }
+          },
+          {
+            "id": "ed35ff7918dbc979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 5/19.10.26 - Workshop 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19.10.26 - Workshop 3"
+            }
+          },
+          {
+            "id": "69d071d208f7e9ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 5/19.10.26 - Lecture 9 - Conditionals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19.10.26 - Lecture 9 - Conditionals"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -244,13 +272,20 @@
   },
   "active": "11f8375a17f23b79",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 5/19.10.26 - Lecture 9 - Conditionals.md",
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Untitled.md",
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 5",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 5/19.10.26 - Workshop 3.md",
+    "Attachments/ECM2419_Database_Workshop3_Q2_A.svg",
+    "Attachments/Pasted image 20261019134300.png",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 5",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 4/15.10.26 - Workshop 4.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 4/15.10.26 - Lecture 8 - Higher Order Functions.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 4/16.10.26 - Workshop 3.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/9.10.26 - Workshop 2.md",
     "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 7/26.02.26 - Lecture 14 - JAR Files, DbC and Assertions.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 4/16.10.26 - Lecture 8 - Testing Suites.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 4/Untitled.md",
-    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 4/15.10.26 - Workshop 4.md",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 4/15.10.26 - Lecture 8 - ER to Relational Model.md",
     "Attachments/Pasted image 20261015115256.png",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 4/14.10.26 - Lecture 7 - Relational Model.md",
