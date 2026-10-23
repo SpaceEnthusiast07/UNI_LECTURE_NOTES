@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6a6bcff5dfaa524b",
+        "id": "21563dfe0513b807",
         "type": "tabs",
         "children": [
           {
-            "id": "af902ae764022526",
+            "id": "08dda16e4e4c505f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 5/23.10.26 - Lecture 10 - Event Handling.md",
+                "file": "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 5/23.10.26 - Workshop 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.10.26 - Lecture 10 - Event Handling"
+              "title": "23.10.26 - Workshop 4"
             }
           }
         ]
@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 5/23.10.26 - Lecture 10 - Event Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 5/23.10.26 - Lecture 10 - Event Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -158,7 +156,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 5/23.10.26 - Lecture 10 - Event Handling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,8 +185,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af902ae764022526",
+  "active": "be9037edc1ffeed9",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 5/23.10.26 - Workshop 4.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 5/23.10.26 - Lecture 10 - Event Handling.md"
   ]
 }
