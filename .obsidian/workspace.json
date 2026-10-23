@@ -1,98 +1,41 @@
 {
   "main": {
-    "id": "4baf2ef293a3c0b4",
+    "id": "41da43650108415b",
     "type": "split",
     "children": [
       {
-        "id": "69f24e6c65baad3d",
+        "id": "6a6bcff5dfaa524b",
         "type": "tabs",
         "children": [
           {
-            "id": "06cd409ed97a952b",
+            "id": "af902ae764022526",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 4/13.10.26 - Lecture 7 - Hash Functions & Digital Signatures.md",
+                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 5/23.10.26 - Lecture 10 - Event Handling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.10.26 - Lecture 7 - Hash Functions & Digital Signatures"
-            }
-          },
-          {
-            "id": "94079d8cf01168b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 4/13.10.26 - Lecture 8 - Certificates, PKI, and Practical Trust.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13.10.26 - Lecture 8 - Certificates, PKI, and Practical Trust"
-            }
-          },
-          {
-            "id": "ad065ae576a72c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 4/15.10.26 - Lecture 8 - ER to Relational Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15.10.26 - Lecture 8 - ER to Relational Model"
-            }
-          },
-          {
-            "id": "0045d5a1e5829453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 4/15.10.26 - Workshop 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15.10.26 - Workshop 4"
-            }
-          },
-          {
-            "id": "ed35ff7918dbc979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 5/19.10.26 - Workshop 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "19.10.26 - Workshop 3"
+              "title": "23.10.26 - Lecture 10 - Event Handling"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "207c0a90cee32d43",
+    "id": "37d018a5b0cb8bb4",
     "type": "split",
     "children": [
       {
-        "id": "5ae1cd69e4ca2eaf",
+        "id": "0da31d3d3eb99a47",
         "type": "tabs",
         "children": [
           {
-            "id": "39db5a9d68404f57",
+            "id": "12868eb92d738c4f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -107,7 +50,7 @@
             }
           },
           {
-            "id": "28a950daf82e6a89",
+            "id": "2e19441f617a8507",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -124,7 +67,7 @@
             }
           },
           {
-            "id": "1ab509a572cc3eb0",
+            "id": "0a62725b0795b379",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -137,7 +80,7 @@
             }
           },
           {
-            "id": "11f8375a17f23b79",
+            "id": "be9037edc1ffeed9",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -154,19 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "c99a1dd2f175f125",
+    "id": "da9b74d2cd34452f",
     "type": "split",
     "children": [
       {
-        "id": "a21e9fe78d1f630f",
+        "id": "829884b04d2d097c",
         "type": "tabs",
         "children": [
           {
-            "id": "1135e31933965166",
+            "id": "9657dcb1c7e70355",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 5/23.10.26 - Lecture 10 - Event Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,11 +124,12 @@
             }
           },
           {
-            "id": "df85dffb8c99fc80",
+            "id": "e234277a676cfd83",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 5/23.10.26 - Lecture 10 - Event Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -193,7 +138,7 @@
             }
           },
           {
-            "id": "a262927d0be90e42",
+            "id": "0485d5259c6fc720",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -208,11 +153,12 @@
             }
           },
           {
-            "id": "d995c2e06dc9c836",
+            "id": "2cbb282558e3fa79",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 5/23.10.26 - Lecture 10 - Event Handling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -242,54 +188,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11f8375a17f23b79",
+  "active": "af902ae764022526",
   "lastOpenFiles": [
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 5/19.10.26 - Workshop 3.md",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 4/15.10.26 - Lecture 8 - Higher Order Functions.md",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 5/21.10.26 - Lecture 9 - Normalisation.md",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 5/19.10.26 - Lecture 9 - Conditionals.md",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 5/22.10.26 - Lecture 10 - AI Assistants.md",
-    "Attachments/Pasted image 20261022164332.png",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 5/22.10.26 - Lecture 10 - Relational Algebra.md",
-    "Attachments/Pasted image 20261022155022.png",
-    "Attachments/Pasted image 20261022154641.png",
-    "Attachments/Pasted image 20261022153020.png",
-    "Attachments/Pasted image 20261022151159.png",
-    "Attachments/Pasted image 20261022150704.png",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 5/21.10.26 - Lecture 9 - Version Control.md",
-    "Attachments/Pasted image 20261021103717.png",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 5",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Untitled.md",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 5",
-    "Attachments/ECM2419_Database_Workshop3_Q2_A.svg",
-    "Attachments/Pasted image 20261019134300.png",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 5",
-    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 4/15.10.26 - Workshop 4.md",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 4/16.10.26 - Workshop 3.md",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/9.10.26 - Workshop 2.md",
-    "BSc Comp Sci/Year 1/ECM1410 - Object Oriented Programming/Week 7/26.02.26 - Lecture 14 - JAR Files, DbC and Assertions.md",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 4/16.10.26 - Lecture 8 - Testing Suites.md",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 4/Untitled.md",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 4/15.10.26 - Lecture 8 - ER to Relational Model.md",
-    "Attachments/Pasted image 20261015115256.png",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 4/14.10.26 - Lecture 7 - Relational Model.md",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 4",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 4/14.10.26 - Lecture 7 - JUnit Testing.md",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 4",
-    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 4/13.10.26 - Lecture 7 - Hash Functions & Digital Signatures.md",
-    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 4/13.10.26 - Lecture 8 - Certificates, PKI, and Practical Trust.md",
-    "BSc Comp Sci/Year 2/ECM2400 - Employability/Week 4/13.10.26 - Lecture 4.md",
-    "BSc Comp Sci/Year 2/ECM2400 - Employability/Week 4",
-    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 4",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 4/12.10.26 - Lecture 7 - Type Variables.md",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 4",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 3/8.10.26 - Lecture 6 - Advanced ER Modelling.md",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 4",
-    "conflict-files-obsidian-git.md",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Coursework/11.10.26 - Coursework Notes.md",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Untitled.canvas",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Coursework",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 3/8.10.26 - Lecture 6 - Design Patterns.md",
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 3/9.10.26 - Lecture 6 - Testing Fundamentals.md"
+    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 5/23.10.26 - Lecture 10 - Event Handling.md"
   ]
 }
