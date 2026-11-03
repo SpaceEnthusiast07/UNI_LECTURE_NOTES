@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "03.11.26 - Lecture 11 & 12 - Formal Verification of Protocols"
             }
+          },
+          {
+            "id": "dd3cd4472a9a7031",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -230,8 +240,8 @@
   },
   "active": "be9037edc1ffeed9",
   "lastOpenFiles": [
-    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 7/03.11.26 - Lecture 11 & 12 - Formal Verification of Protocols.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 5/20.10.26 - Lecture 9 & 10 - Security Protocols.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 7/03.11.26 - Lecture 11 & 12 - Formal Verification of Protocols.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 7/03.11.26 - Lecture 12 -.md",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 7/02.11.26 - Workshop 4 - Normalisation and Relational Algebra.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 7",
