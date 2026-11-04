@@ -67,14 +67,32 @@
             "id": "dd3cd4472a9a7031",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 7/04.11.26 - Lecture 11 - Design Patterns 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "04.11.26 - Lecture 11 - Design Patterns 1"
+            }
+          },
+          {
+            "id": "21f9595c1354845a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 7/04.11.26 - Lecture 11 - SQL 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04.11.26 - Lecture 11 - SQL 1"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -240,6 +258,11 @@
   },
   "active": "be9037edc1ffeed9",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20261104152832.png",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 7/04.11.26 - Lecture 11 - SQL 1.md",
+    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 7/04.11.26 - Lecture 11 - Design Patterns 1.md",
+    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Module Info.md",
+    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 7",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 5/20.10.26 - Lecture 9 & 10 - Security Protocols.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 7/03.11.26 - Lecture 11 & 12 - Formal Verification of Protocols.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 7/03.11.26 - Lecture 12 -.md",
