@@ -78,21 +78,35 @@
             }
           },
           {
-            "id": "21f9595c1354845a",
+            "id": "99e9a914ee69f464",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 7/04.11.26 - Lecture 11 - SQL 1.md",
+                "file": "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 7/05.11.26 - Lecture 12 - SQL 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.11.26 - Lecture 11 - SQL 1"
+              "title": "05.11.26 - Lecture 12 - SQL 2"
+            }
+          },
+          {
+            "id": "c9a951eaf17a0045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 7/05.11.26 - Lecture 12 - Type Classes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.11.26 - Lecture 12 - Type Classes"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -258,9 +272,11 @@
   },
   "active": "be9037edc1ffeed9",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20261104152832.png",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 7/04.11.26 - Lecture 11 - SQL 1.md",
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 7/05.11.26 - Lecture 12 - Type Classes.md",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 7/05.11.26 - Lecture 12 - SQL 2.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 7/04.11.26 - Lecture 11 - Design Patterns 1.md",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 7/04.11.26 - Lecture 11 - SQL 1.md",
+    "Attachments/Pasted image 20261104152832.png",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Module Info.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 7",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 5/20.10.26 - Lecture 9 & 10 - Security Protocols.md",
