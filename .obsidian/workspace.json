@@ -221,14 +221,18 @@
             "id": "33ff4e15d6eb99dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 10/23.11.26 - Lecture 17 - Parallelism.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "23.11.26 - Lecture 17 - Parallelism"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -394,11 +398,13 @@
   },
   "active": "be9037edc1ffeed9",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 10/23.11.26 - Lecture 17 - Parallelism.md",
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 10",
+    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 9/18.11.26 - Lecture 15 - Physical DB Design.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 9/20.11.26 - Lecture 16 - Reflection.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 9/19.11.26 - Lecture 16 - IO Monads.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 9/19.11.26 - Workshop 8.md",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 9/19.11.26 - Lecture 16 - Transaction Management.md",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 9/18.11.26 - Lecture 15 - Physical DB Design.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 9/18.11.26 - Lecture 15 - Collections Framework.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 8/13.11.26 - Lecture 14 - Generic Programming.md",
     "Attachments/Pasted image 20261118101720.png",
@@ -435,8 +441,6 @@
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 8/10.11.26 - Lecture 13 - Engineering Secure Software.md",
     "Attachments/Pasted image 20261110133042.png",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 8",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 8",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Coursework/Task 3 - Algebraic Solutions.md",
     "Attachments/Pasted image 20261106095912.png",
     "Attachments/Pasted image 20261104152832.png",
     "Attachments/Pasted image 20261103093738.png"
