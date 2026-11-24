@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 10/24.11.26 - Lecture 17 -.md",
+                "file": "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 10/24.11.26 - Lecture 17 & 18 - Security Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24.11.26 - Lecture 17 -"
+              "title": "24.11.26 - Lecture 17 & 18 - Security Testing"
             }
           }
         ],
@@ -296,7 +296,8 @@
   },
   "active": "be9037edc1ffeed9",
   "lastOpenFiles": [
-    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 10/24.11.26 - Lecture 17 -.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 10/24.11.26 - Lecture 17 & 18 - Security Testing.md",
+    "Attachments/Pasted image 20261124105157.png",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 10",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 8/12.11.26 - Lecture 14 - Lazy Evaluation.md",
     "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 10/23.11.26 - Lecture 17 - Parallelism.md",
@@ -338,9 +339,7 @@
     "Attachments/Pasted image 20261112101537.png",
     "Attachments/Pasted image 20261111110641.png",
     "Attachments/Pasted image 20261110133042.png",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Coursework/Task 3 - Algebraic Solutions.md",
     "Attachments/Pasted image 20261106095912.png",
-    "Attachments/Pasted image 20261104152832.png",
-    "Attachments/Pasted image 20261103093738.png"
+    "Attachments/Pasted image 20261104152832.png"
   ]
 }
