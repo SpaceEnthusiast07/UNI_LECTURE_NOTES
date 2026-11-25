@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 10/25.11.26 - Lecture 17 - Sockets in Java.md",
+                "file": "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 10/25.11.26 - Lecture 17 - Networking & Sockets in Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25.11.26 - Lecture 17 - Sockets in Java"
+              "title": "25.11.26 - Lecture 17 - Networking & Sockets in Java"
             }
           }
         ],
@@ -310,7 +310,9 @@
   },
   "active": "be9037edc1ffeed9",
   "lastOpenFiles": [
-    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 10/25.11.26 - Lecture 17 - Sockets in Java.md",
+    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Module Info.md",
+    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 10/25.11.26 - Lecture 17 - Networking & Sockets in Java.md",
+    "BSc Comp Sci/Year 2/ECM2414 - Software Development/Untitled.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 10/24.11.26 - Lecture 17 & 18 - Security Testing.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 10",
     "Attachments/Pasted image 20261125090652.png",
@@ -348,10 +350,8 @@
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 8/10.11.26 - Lecture 13 - Engineering Secure Software.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 8",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 8/12.11.26 - Lecture 14 - SQL 4.md",
-    "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 8/11.11.26 - Lecture 13 - SQL 3.md",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 8",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 8",
-    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 8/09.11.26 - Lecture 13 - Arrays.md",
     "Attachments/Pasted image 20261112131941.png",
     "Attachments/Pasted image 20261112101537.png",
     "Attachments/Pasted image 20261111110641.png",
