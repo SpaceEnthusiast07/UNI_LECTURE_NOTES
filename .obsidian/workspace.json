@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "26.11.26 - Workshop - Software Supply Chain"
             }
+          },
+          {
+            "id": "8d6bbb43bcfeee2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 10/26.11.26 - Lecture 18 - Financial Contracts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26.11.26 - Lecture 18 - Financial Contracts"
+            }
+          },
+          {
+            "id": "8c2cd5f45e2e0001",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -352,10 +376,11 @@
   },
   "active": "be9037edc1ffeed9",
   "lastOpenFiles": [
+    "BSc Comp Sci/Year 2/COM2413 - Functional Programming/Week 10/26.11.26 - Lecture 18 - Financial Contracts.md",
+    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 10/26.11.26 - Workshop - Software Supply Chain.md",
     "Attachments/Pasted image 20261126144600.png",
     "Attachments/Pasted image 20261126142619.png",
     "Attachments/Pasted image 20261126141943.png",
-    "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 10/26.11.26 - Workshop - Software Supply Chain.md",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 10/26.11.26 - Lecture 18 - Database Backup and Recovery.md",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 10/25.11.26 - Lecture 17 - Concurrency Control Protocols.md",
     "BSc Comp Sci/Year 2/ECM2414 - Software Development/Week 10/25.11.26 - Lecture 17 - Networking & Sockets in Java.md",
@@ -396,7 +421,6 @@
     "Untitled.md",
     "BSc Comp Sci/Year 2/ECM2426 - Network and Computer Security/Week 8",
     "BSc Comp Sci/Year 2/ECM2419 - Database Theory and Design/Week 8",
-    "Attachments/Pasted image 20261112131941.png",
-    "Attachments/Pasted image 20261112101537.png"
+    "Attachments/Pasted image 20261112131941.png"
   ]
 }
